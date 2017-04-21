@@ -1,0 +1,22 @@
+<?xml version="1.0" ?><!DOCTYPE svg  PUBLIC '-//W3C//DTD SVG 1.1//EN'  'http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd' [
+	<!ENTITY stroke_color "#666666">
+	<!ENTITY fill_color "#ffffff">
+]>
+<svg height="55px" width="55px">
+  <g>
+    <defs>
+      <linearGradient id="lineal" x1="0%" y1="0%" x2="0%" y2="100%">
+        <stop offset="0%" stop-color="&stroke_color;"/>
+        <stop offset="50%" stop-color="&fill_color;"/>
+      </linearGradient>
+      <radialGradient id="radial">
+        <stop offset="0%" stop-color="&fill_color;"/>
+        
+        <stop offset="100%" stop-color="&stroke_color;"/>
+      </radialGradient>
+
+    </defs>
+    <polygon points="5,5 25,5 25,10 50,10 50,50 5,50" stroke="&stroke_color;" stroke-width="3.5" fill="url(#lineal)"/>
+    <polygon points="5,20 25,20 25,15 50,15 50,50 5,50" stroke="&stroke_color;" stroke-width="3.5" fill="url(#radial)"/>
+  </g>
+</svg>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
+        <!ENTITY fill_color "#666666">
+        <!ENTITY stroke_color "#000000">
+]>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.0"
+   width="55"
+   height="55"
+   id="svg2600">
+  <defs
+     id="defs2606" />
+  <path
+     d="M 25.074692,19.142736 L 45.420116,11.422908 C 47.491554,10.902375 49.802352,12.985499 50.578147,16.072738 C 51.353941,19.159977 50.421452,21.492786 48.469061,22.489509 L 30.673435,32.159778"
+     id="path3184"
+     style="fill:&fill_color;;fill-opacity:1;stroke:&stroke_color;;stroke-width:2.5;stroke-linecap:butt;stroke-miterlimit:4;stroke-dashoffset:4.4;stroke-opacity:1" />
+  <path
+     d="M 8.4897273,23.612279 L 21.502457,18.584872 C 25.047035,17.694152 29.003195,21.26667 30.333169,26.559244 C 31.663144,31.851817 30.341973,35.322523 26.321205,37.760862 L 14.761906,43.760212"
+     id="path3182"
+     style="fill:&fill_color;;fill-opacity:1;stroke:&stroke_color;;stroke-width:3.1235013;stroke-linecap:butt;stroke-miterlimit:4;stroke-dashoffset:4.4;stroke-opacity:1" />
+  <path
+     d="M 20.595239,35.17857 A 6.1904764,9.2261906 0 1 1 8.2142859,35.17857 A 6.1904764,9.2261906 0 1 1 20.595239,35.17857 z"
+     transform="matrix(1.1006246,-0.2765767,0.2765767,1.1006246,-13.941797,-1.0344849)"
+     id="path2386"
+     style="fill:&fill_color;;fill-opacity:1;stroke:&stroke_color;;stroke-width:2.92040825;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:4.4;stroke-opacity:1" />
+</svg>

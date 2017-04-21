@@ -1,0 +1,548 @@
+4024|P|Browse|Browse|129|0.86|0.94|September 30, 2011|42,987|http://wiki.laptop.org/go/Browse
+4026|P|Typing Turtle|Typing Turtle is a multilingual animated touch typing trainer.|29|0.82|0.96|December  1, 2011|186,142|http://wiki.sugarlabs.org/go/Activities/Typing_Turtle
+4027|P|Turtle Blocks|Turtle Blocks is an activity with a Logo-inspired graphical "turtle" that draws colorful art with snap-together visual programming elements. (Turtle Blocks was previously known as Turtle Art.)|171|0.82|0.98|February  6, 2013|75,848|http://wiki.sugarlabs.org/go/Activities/Turtle_Art
+4028|P|Read|Read Activity|92|0.86|0.94|October  5, 2011|29,423|http://wiki.sugarlabs.org/go/Activities/Read
+4029|P|IRC|The IRC activity allows you to chat with other Sugar/OLPC users and enthusiasts on the Internet via Internet Relay Chat (IRC).|10|0.82|0.94|June 13, 2011|12,742|http://wiki.sugarlabs.org/go/Activities/IRC
+4030|P|Etoys|Media authoring environment with graphical scripting for children of all ages. Aren't we all children?|113|0.84|0.92|December  1, 2009|37,675|http://squeakland.org/
+4031|P|Wireless Graph|WirelessGraph|7|0.82|0.94|February 22, 2009|24,379|
+4032|P|Image Viewer|Image Viewer|21|0.86|0.96|June  6, 2012|56,841|
+4034|P|Moon|Moon phase viewer, includes Lunar phase information and eclipse data.|16|0.82|0.98|November  3, 2012|175,495|http://wiki.sugarlabs.org/go/Activities/Moon
+4035|P|Read ETexts|Read ETexts lets you read all the free e-texts from Project Gutenberg on your XO, or use Text to Speech to have them read to you.  The built in offline catalog search lets you browse through and download over 24,000 great titles!|24|0.82|0.96|April 21, 2012|99,053|http://wiki.sugarlabs.org/go/Activities/Read_Etexts
+4036|P||||||||
+4037|P|Cartoon Builder|Animate a cartoon character by creating a sequence of poses inside a filmstrip|17|0.82|0.96|June  6, 2012|16,238|http://sugarlabs.org/go/Activities/CartoonBuilder
+4038|P|Speak|Speak is a talking face for the Sugar. Anything you type will be spoken aloud using the speech synthesizer, espeak. You can "speech" chat with other users and ask any question Speak robot.|44|0.82|0.98|November  7, 2012|170,368|http://sugarlabs.org/go/Activities/Speak
+4039|P|View Slides|View Slides allows you to page through a series of sequentially named image files.  This can be used for reading scanned in books like picture books, comic books, magazine articles, photos, etc.|13|0.82|0.94|June  5, 2010|102,703|http://wiki.sugarlabs.org/go/Activities/View_Slides
+4040|P|Finance|Finance is a simple financial planning activity. It can be integrated into classroom assignments, or else used to track finances for a school club. It might also be useful for students who wish to help their parents with home finances.|8|0.82|0.96|May 23, 2012|39,104|
+4041|P|Pippy|Pippy is a python code editor with built-in examples and a run-time environment.|49|0.82|0.96|June 23, 2012|27,967|
+4042|P|Info Slicer|InfoSlicer is an open source tool to enable teachers to quickly and easily select web-based content to edit, package, and distribute as teaching materials.|15|0.82|0.96|May 23, 2012|66,790|http://sugarlabs.org/go/Activities/InfoSlicer
+4043|P|Terminal|Terminal|40|0.82|0.96|June 24, 2012|41,887|
+4044|P|Flip Sticks|Using keyframes, program a stick figure to twist, turn, tumble and dance|13|0.82|0.96|June  6, 2012|19,734|http://sugarlabs.org/go/Activities/Flip_Sticks
+4045|P|Jukebox|Jukebox is the media player to play different kinds of audio and video files.|26|0.84|0.96|June 14, 2012|115,421|
+4046|P|Jigsaw Puzzle|Classic picture-constructing game|10|0.82|0.94|October 21, 2011|46,664|http://sugarlabs.org/go/Activities/Jigsaw_Puzzle
+4047|P|Slider Puzzle|Slider Puzzle to improve on puzzle solving skills|10|0.82|0.94|October 21, 2011|24,792|http://sugarlabs.org/go/Activities/Slider_Puzzle
+4050|P|Colors|Colors is a simple natural media painting activity|15|0.82|0.90|March 15, 2009|28,157|http://sugarlabs.org/go/Activities/Colors
+4051|P|XO Help|Documentation and Help for the XO|15|0.98|0.98|September 27, 2012|13,009|
+4052|P||||||||
+4053|P||||||||
+4054|P|Free Cell|FreeCell is a classic card game for one player.|3|0.82|0.88|January 11, 2010|40,787|http://git.sugarlabs.org/projects/freecell/
+4055|P|Bounce|Bounce is a fast paced 3D action game.|7|0.82|0.84|March 10, 2009|22,392|http://wiki.sugarlabs.org/go/Activities/Bounce
+4056|P|Log|Log is an activity for inspecting log files.|29|0.84|0.96|June  1, 2012|15,411|
+4057|P||||||||
+4058|P|Develop|Develop|39|0.82|0.88|May  2, 2009|15,335|
+4059|P|TamTam Edit|Music composition and synthesis|66|0.82|0.98|October  5, 2012|23,508|http://sugarlabs.org/go/Activities/TamTam
+4060|P|TamTam Jam|Music composition and synthesis|66|0.82|0.98|October  5, 2012|21,705|http://sugarlabs.org/go/Activities/TamTam
+4061|P|TamTam Mini|Music composition and synthesis|66|0.82|0.98|October  5, 2012|27,467|http://sugarlabs.org/go/Activities/TamTam
+4062|P|TamTam Synth Lab|Music composition and synthesis|66|0.82|0.98|October  5, 2012|20,490|http://sugarlabs.org/go/Activities/TamTam
+4063|P|Memorize|Memory game|43|0.86|0.98|September 25, 2012|62,914|http://sugarlabs.org/go/Activities/Memorize
+4064|P|Joke Machine|org.worldwideworkshop.JokeMachineActivity Start a multimedia jokebook and invite your friends to add jokes to it|14|0.82|0.94|October 21, 2011|29,393|http://sugarlabs.org/go/Activities/JokeMachine
+4065|P||||||||
+4066|P||||||||
+4067|P||||||||
+4068|P||||||||
+4069|P|Chat|Chat provides a simple interface for collaborative discussion, be it between two individuals or among a group as large as an entire classroom. Use Neighborhood View to invite particular people to Chat, or share for a public conversation.|78|0.86|0.98|December  3, 2012|24,316|http://wiki.laptop.org/go/Chat
+4071|P|Maze|Maze is a multi-player maze game.  You can play with one, two or three players on a single machine or even more via Sugar's mesh based collaboration.|22|0.82|0.98|November 20, 2012|13,945|
+4072|E|Frotz|Frotz lets you play interactive fiction games (also known as text adventures).  Frotz includes one game, the classic Adventure. You can download and play many more games in several languages.|3|0.84|0.88|March 21, 2009|1,391|http://wiki.laptop.org/go/Frotz
+4073|P|Story Builder|Graphical story constructor with a variety of characters and backgrounds and simple word-processing capabilities|19|0.82|0.94|November  2, 2011|14,805|http://wiki.sugarlabs.org/go/Activities/Story_Builder
+4074|P|Poll|Create a poll, collect votes and analyze community opinions|28|0.82|0.96|February 27, 2012|18,235|http://sugarlabs.org/go/Activities/Poll
+4075|P|NatureImages|nature images|1|0.84|0.84|April  6, 2009|16,132|
+4076|P|Calculate|Calculate is a Sugar calculator.|40|0.82|0.96|May  7, 2012|10,983|
+4077|E|Newbery|Newbery Medal Winners by Women Authors|1|0.84|0.84|April  9, 2009|630|http://digital.library.upenn.edu/women/_collections/newbery/newbery.html
+4078|P|Labyrinth|Labyrinth is a lightweight mind-mapping activity that supports text, images, and simple drawings.|14|0.84|0.96|June 26, 2012|86,906|http://wiki.sugarlabs.org/go/Activities/Labyrinth
+4081|P|Record|Still, video, and audio capture|97|0.96|0.98|November 23, 2012|32,335|http://wiki.sugarlabs.org/go/Activities/Record
+4082|P|Paint|Simple paint activity|43|0.86|0.96|May  4, 2012|13,391|http://wiki.sugarlabs.org/go/Activities/Paint
+4083|P|PlayGo|PlayGo|6|0.82|0.94|May 11, 2009|27,060|http://wiki.laptop.org/go/PlayGo
+4084|P|SocialCalcActivity|SocialCalc|6|0.82|0.92|June 12, 2012|30,580|http://seeta.in/j/products-and-services/socialcalc-on-sugar.html
+4085|P|xoEditor|Editor for XO icon colors; this activity lets you explore different color patterns. You can use xoEditor to save these changes to your icon colors.|6|0.82|0.96|May 23, 2012|52,486|http://wiki.sugarlabs.org/go/Activities/XoEditor
+4086|P|Implode|Implode is a "falling block" logic game. The object of the game is to remove all the blocks, by removing blocks in groups of three or more.|12|0.82|0.96|May 14, 2012|20,977|
+4087|E|APRS-XO|APRS-XO is a tiny APRS implementation for the XO computer.  Amateur radio license required.|14|0.84|0.84|May 30, 2009|1,239|http://zielkeassociates.com/~jack/aprs-xo/
+4088|P|Tux Paint|Paint program for young children|6|0.82|0.94|October 15, 2011|81,395|http://wiki.sugarlabs.org/go/Activities/Tux_Paint
+4089|P|Library|Browse, launch and share(for v2&#43;) sugar objects|1|0.84|0.84|June  1, 2009|16,733|http://wiki.sugarlabs.org/go/Activities/Library
+4090|P|GCompris Additional Content|Music and voices for GCompris activities|13|0.82|0.90|February 19, 2010|130,530|
+4091|P|GCompris Advanced Colors|Advanced colors|13|0.82|0.90|February 19, 2010|51,478|http://gcompris.net/
+4092|P|GCompris Algebra By|Practice the multiplication operation|13|0.82|0.90|February 19, 2010|34,142|http://gcompris.net/
+4093|P|GCompris Algebra Guesscount|Find the series of correct operations that matches the given answer|13|0.82|0.90|February 19, 2010|60,462|http://gcompris.net/
+4094|P|GCompris Algebra Plus|Practice the addition operation|13|0.82|0.90|February 19, 2010|15,553|http://gcompris.net/
+4095|P|GCompris Algebra Minus|Practice the subtraction operation|13|0.82|0.90|February 19, 2010|11,611|http://gcompris.net/
+4096|P|GCompris Algorithm|algorithm|13|0.82|0.90|February 19, 2010|23,445|http://gcompris.net/
+4097|P|GCompris Anim|Create a drawing or an animation|13|0.82|0.90|February 19, 2010|33,932|http://gcompris.net/
+4098|P|GCompris Awele|Oware|13|0.82|0.90|February 19, 2010|19,181|http://gcompris.net/
+4099|P|GCompris Babymatch|Matching Items|13|0.82|0.90|February 19, 2010|31,483|http://gcompris.net/
+4100|P|GCompris Babyshapes|Complete the puzzle|13|0.82|0.90|February 19, 2010|28,935|http://gcompris.net/
+4101|P|GCompris Ballcatch|Make the ball go to Tux|13|0.82|0.90|February 19, 2010|35,468|http://gcompris.net/
+4102|P|GCompris Bargame|bar game|13|0.82|0.90|February 19, 2010|33,231|http://gcompris.net/
+4103|P|GCompris Billard|The football game|13|0.82|0.90|February 19, 2010|191,738|http://gcompris.net/
+4104|P|GCompris Canal Lock|Operate a canal lock|13|0.82|0.90|February 19, 2010|22,519|http://gcompris.net/
+4105|P|GCompris Chess Computer|Learning chess|13|0.82|0.90|February 19, 2010|29,557|http://gcompris.net/
+4106|P|GCompris Chess Movelearn|Learning chess|13|0.82|0.90|February 19, 2010|11,566|http://gcompris.net/
+4107|P|GCompris Chess Partyend|Learning chess|13|0.82|0.90|February 19, 2010|13,515|http://gcompris.net/
+4108|P|GCompris Chronos|Chronos|13|0.82|0.90|February 19, 2010|16,580|http://gcompris.net/
+4109|P|GCompris Clickanddraw|Click and draw|13|0.82|0.90|February 19, 2010|32,776|http://gcompris.net/
+4110|P|GCompris Clickgame|Click On Me|13|0.82|0.90|February 19, 2010|21,689|http://gcompris.net/
+4111|P|GCompris Click On Letter|Click on a letter|13|0.82|0.90|February 19, 2010|15,819|http://gcompris.net/
+4112|P|GCompris Clockgame|Learning Clock|13|0.82|0.90|February 19, 2010|38,263|http://gcompris.net/
+4113|P|GCompris Colors|Colors|13|0.82|0.90|February 19, 2010|14,842|http://gcompris.net/
+4114|P|GCompris Connect4|Connect 4|13|0.82|0.90|February 19, 2010|15,827|http://gcompris.net/
+4115|P|GCompris Connect4-2players|Connect 4 (2 Players)|13|0.82|0.90|February 19, 2010|12,441|http://gcompris.net/
+4116|P|GCompris Crane|Build the same model|13|0.82|0.90|February 19, 2010|43,147|http://gcompris.net/
+4117|P|GCompris Doubleentry|Double-entry table|13|0.82|0.90|February 19, 2010|11,018|http://gcompris.net/
+4118|P|GCompris Drawnumber|Draw Number|13|0.82|0.90|February 19, 2010|12,916|http://gcompris.net/
+4119|P|GCompris Electric|Electricity|13|0.82|0.90|February 19, 2010|21,226|http://gcompris.net/
+4120|P|GCompris Enumerate|Count the items|13|0.82|0.90|February 19, 2010|18,731|http://gcompris.net/
+4121|P|GCompris Erase|Move the mouse|13|0.82|0.90|February 19, 2010|11,296|http://gcompris.net/
+4122|P|GCompris Erase Click|Click the mouse|13|0.82|0.90|February 19, 2010|9,232|http://gcompris.net/
+4123|P|GCompris Fifteen|The fifteen game|13|0.82|0.90|February 19, 2010|14,447|http://gcompris.net/
+4124|P|GCompris Followline|Control the hose-pipe|13|0.82|0.90|February 19, 2010|12,987|http://gcompris.net/
+4125|P|GCompris Geography|Locate the countries|13|0.82|0.90|February 19, 2010|55,220|http://gcompris.net/
+4126|P|GCompris Geography Country|Locate the region|13|0.82|0.90|February 19, 2010|21,698|http://gcompris.net/
+4127|P|GCompris Gletters|Simple Letters|13|0.82|0.90|February 19, 2010|15,708|http://gcompris.net/
+4128|P|GCompris Gnumch Equality|Equality Number Munchers|13|0.82|0.90|February 19, 2010|15,939|http://gcompris.net/
+4129|P|GCompris Gnumch Factors|Factor Number Munchers|13|0.82|0.90|February 19, 2010|13,276|http://gcompris.net/
+4130|P|GCompris Gnumch Inequality|Inequality Number Munchers|13|0.82|0.90|February 19, 2010|19,031|http://gcompris.net/
+4131|P|GCompris Gnumch Multiples|Multiple Number Munchers|13|0.82|0.90|February 19, 2010|8,622|http://gcompris.net/
+4132|P|GCompris Gnumch Primes|Prime Number Munchers|13|0.82|0.90|February 19, 2010|10,579|http://gcompris.net/
+4133|P|GCompris Guessnumber|Guess a number|13|0.82|0.90|February 19, 2010|28,034|http://gcompris.net/
+4134|P|GCompris Hanoi|Simplified Tower of Hanoi|13|0.82|0.90|February 19, 2010|16,841|http://gcompris.net/
+4135|P|GCompris Hanoi Real|The Tower of Hanoi|13|0.82|0.90|February 19, 2010|18,990|http://gcompris.net/
+4136|P|GCompris Hexagon|hexagon|13|0.82|0.90|February 19, 2010|17,050|http://gcompris.net/
+4137|P|GCompris Imageid|Reading practice|13|0.82|0.90|February 19, 2010|15,608|http://gcompris.net/
+4138|P|GCompris Imagename|Image Name|13|0.82|0.90|February 19, 2010|12,595|http://gcompris.net/
+4139|P|GCompris Leftright|Find your left and right hands|13|0.82|0.90|February 19, 2010|17,145|http://gcompris.net/
+4140|P|GCompris Magic Hat Minus|The magician hat|13|0.82|0.90|February 19, 2010|13,157|http://gcompris.net/
+4141|P|GCompris Magic Hat Plus|The magician hat|13|0.82|0.90|February 19, 2010|11,430|http://gcompris.net/
+4142|P|GCompris Maze|Maze|13|0.82|0.90|February 19, 2010|22,770|http://gcompris.net/
+4143|P|GCompris Maze2 DRelative|Maze|13|0.82|0.90|February 19, 2010|12,824|http://gcompris.net/
+4144|P|GCompris Maze 3D|3D Maze|13|0.82|0.90|February 19, 2010|86,389|http://gcompris.net/
+4145|P|GCompris Maze Invisible|Maze|13|0.82|0.90|February 19, 2010|10,176|http://gcompris.net/
+4146|P|GCompris Memory|Memory Game with images|13|0.82|0.90|February 19, 2010|12,158|http://gcompris.net/
+4147|P|GCompris Memory Add|Addition memory game|13|0.82|0.90|February 19, 2010|5,641|http://gcompris.net/
+4148|P|GCompris Memory Add Minus|Addition and subtraction memory game|13|0.82|0.90|February 19, 2010|5,544|http://gcompris.net/
+4149|P|GCompris Memory Add Minus Mult Div|All operations memory game|13|0.82|0.90|February 19, 2010|5,062|http://gcompris.net/
+4150|P|GCompris Memory Add Minus Mult Div Tux|All operations memory game against Tux|13|0.82|0.90|February 19, 2010|5,175|http://gcompris.net/
+4151|P|GCompris Memory Add Minus Tux|Addition and subtraction memory game against Tux|13|0.82|0.90|February 19, 2010|4,517|http://gcompris.net/
+4152|P|GCompris Memory Add Tux|Addition memory game against Tux|13|0.82|0.90|February 19, 2010|4,129|http://gcompris.net/
+4153|P|GCompris Memory Div|Division memory game|13|0.82|0.90|February 19, 2010|4,125|http://gcompris.net/
+4154|P|GCompris Memory Div Tux|Division memory game against Tux|13|0.82|0.90|February 19, 2010|3,799|http://gcompris.net/
+4155|P|GCompris Memory Minus|Subtraction memory game|13|0.82|0.90|February 19, 2010|3,918|http://gcompris.net/
+4156|P|GCompris Memory Minus Tux|Subtraction memory game against Tux|13|0.82|0.90|February 19, 2010|6,123|http://gcompris.net/
+4157|P|GCompris Memory Mult|Multiplication memory game|13|0.82|0.90|February 19, 2010|4,633|http://gcompris.net/
+4158|P|GCompris Memory Mult Div|Multiplication and division memory game|13|0.82|0.90|February 19, 2010|4,738|http://gcompris.net/
+4159|P|GCompris Memory Mult Div Tux|Multiplication and division memory game against Tux|13|0.82|0.90|February 19, 2010|4,034|http://gcompris.net/
+4160|P|GCompris Memory Mult Tux|Multiplication memory game against Tux|13|0.82|0.90|February 19, 2010|4,247|http://gcompris.net/
+4161|P|GCompris Memory Sound|Audio memory game|13|0.82|0.90|February 19, 2010|7,479|http://gcompris.net/
+4162|P|GCompris Memory Sound Tux|Audio memory game against Tux|13|0.82|0.90|February 19, 2010|8,550|http://gcompris.net/
+4163|P|GCompris Memory Tux|Memory Game with images, against Tux|13|0.82|0.90|February 19, 2010|11,033|http://gcompris.net/
+4164|P|GCompris Missing Letter|Missing Letter|13|0.82|0.90|February 19, 2010|11,502|http://gcompris.net/
+4165|P|GCompris Money|Money|13|0.82|0.90|February 19, 2010|16,662|http://gcompris.net/
+4166|P|GCompris Money Cents|Money|13|0.82|0.90|February 19, 2010|10,881|http://gcompris.net/
+4167|P|GCompris Mosaic|Rebuild the mosaic|13|0.82|0.90|February 19, 2010|11,577|http://gcompris.net/
+4168|P|GCompris Paintings|Assemble the puzzle|13|0.82|0.90|February 19, 2010|23,139|http://gcompris.net/
+4169|P|GCompris Paratrooper|Parachutist|13|0.82|0.90|February 19, 2010|27,870|http://gcompris.net/
+4170|P|GCompris Planegame|Numbers in Order|13|0.82|0.90|February 19, 2010|16,555|http://gcompris.net/
+4171|P|GCompris Railroad|Railway|13|0.82|0.90|February 19, 2010|23,640|http://gcompris.net/
+4172|P|GCompris Read Colors|Read the names of colors|13|0.82|0.90|February 19, 2010|15,167|http://gcompris.net/
+4173|P|GCompris Readingh|Horizontal reading practice|13|0.82|0.90|February 19, 2010|7,217|http://gcompris.net/
+4174|P|GCompris Readingv|Vertical-reading practice|13|0.82|0.90|February 19, 2010|5,818|http://gcompris.net/
+4175|P|GCompris Redraw|Redraw the given item|13|0.82|0.90|February 19, 2010|12,713|http://gcompris.net/
+4176|P|GCompris Redraw Symmetrical|Mirror the given item|13|0.82|0.90|February 19, 2010|13,666|http://gcompris.net/
+4177|P|GCompris Reversecount|Practice subtraction with a fun game|13|0.82|0.90|February 19, 2010|13,136|http://gcompris.net/
+4178|P|GCompris Scalesboard|Balance the scales properly|13|0.82|0.90|February 19, 2010|16,638|http://gcompris.net/
+4179|P|GCompris Searace|Sea race (2 Players)|13|0.82|0.90|February 19, 2010|13,716|http://gcompris.net/
+4180|P|GCompris Searace1player|Sea race (Single Player)|13|0.82|0.90|February 19, 2010|17,630|http://gcompris.net/
+4181|P|GCompris Smallnumbers|Numbers With Dice|13|0.82|0.90|February 19, 2010|9,980|http://gcompris.net/
+4182|P|GCompris Smallnumbers2|Numbers with pairs of dice|13|0.82|0.90|February 19, 2010|13,745|http://gcompris.net/
+4183|P|GCompris Submarine|Pilot a submarine|13|0.82|0.90|February 19, 2010|22,715|http://gcompris.net/
+4184|P|GCompris Sudoku|Sudoku, place unique symbols in a square.|13|0.82|0.90|February 19, 2010|22,823|http://gcompris.net/
+4185|P|GCompris Superbrain|Super Brain|13|0.82|0.90|February 19, 2010|24,914|http://gcompris.net/
+4186|P|GCompris Tangram|The tangram puzzle game|13|0.82|0.90|February 19, 2010|59,153|http://gcompris.net/
+4187|P|GCompris Target|Practice addition with a target game|13|0.82|0.90|February 19, 2010|23,316|http://gcompris.net/
+4188|P|GCompris Traffic|A sliding-block puzzle game|13|0.82|0.90|February 19, 2010|58,761|http://gcompris.net/
+4189|P|GCompris Watercycle|Learn about the water cycle|13|0.82|0.90|February 19, 2010|19,640|http://gcompris.net/
+4190|P|GCompris Wordsgame|Falling Words|13|0.82|0.90|February 19, 2010|16,090|http://gcompris.net/
+4191|P|Clock|Clock is a simple Activity to learn how to read and tell the time.|12|0.82|0.98|December 16, 2012|19,807|http://wiki.sugarlabs.org/go/Activities/Clock
+4192|P|Ruler|Ruler is a very simple Activity which provides images of a ruler, cm and mm grids, and a cm checker board.|24|0.82|0.98|December 27, 2012|8,655|http://wiki.laptop.org/go/Ruler
+4193|P|Physics|Physics|10|0.82|0.96|June  6, 2012|143,729|http://wiki.sugarlabs.org/go/Activities/Physics
+4194|P|Get Internet Archive Books|Get Internet Archive Books is a front end to the Internet Archive website's Advanced Search.  It will enable you to search the archive for books and download them to your Journal.|6|0.82|0.94|June 28, 2010|14,639|http://wiki.sugarlabs.org/go/Activities/Get_Internet_Archive_Books
+4195|P|Helpfr|Helpfr is the french adaptation of the Help activity.|5|0.84|0.84|July 22, 2009|6,345|http://wiki.sugarlabs.org/go/Activities/Helpfr
+4196|E|ShowNTell|ShowNTell expands the capabilities of ClassroomPresenter to enable users to create presentations on the XO and to record audio descriptions of the slides.|11|0.82|0.96|May 12, 2012|1,722|http://wiki.sugarlabs.org/go/Activities/ShowNTell
+4197|P|Measure|Measure is an activity that turns the computer into an oscilloscope. Signals from the microphone (and sensors) can be plotted in time and frequency domains.|44|0.82|0.98|December 14, 2012|23,806|http://wiki.sugarlabs.org/go/Activities/Measure
+4198|E|Quiz|The Quiz activity presents a quiz. Quizzes may have questions about images with text or audio prompts. The Quiz activity also supports traditional flashcards.|5|0.82|0.92|June 20, 2011|1,676|http://wiki.sugarlabs.org/go/Activities/Quiz
+4199|P|Conozco Uruguay|Conozco Uruguay is a game for learning Uruguayan geography|11|0.82|0.94|October 20, 2011|27,925|http://wiki.laptop.org/go/Conozco_Uruguay
+4200|P|Analyze|Analyze|8|0.82|0.94|July 14, 2009|4,846|http://wiki.sugarlabs.org/go/Activities/Analyze
+4201|P|Write|Word processor|79|0.82|0.96|May  4, 2012|17,183|http://wiki.sugarlabs.org/go/Activities/Write
+4202|P||||||||
+4203|E|Update|Update is an Activity which allows users to update all of their activities which are hosted at activities.sugarlabs.org.|1|0.84|0.84|July 24, 2009|2,843|http://wiki.sugarlabs.org/go/Activities/Update
+4204|P|Arithmetic|Collaborative arithmetic quiz|2|0.82|0.94|January  8, 2011|69,886|http://wiki.sugarlabs.org/go/Activities/Arithmetic
+4205|P|Watch Me|Watch Me lets you share a view of your screen with other users.  Just launch it, share it, and your friends can see everything you do!|3|0.82|0.88|July 25, 2010|22,745|
+4206|P|FoodForce2|FoodForce2 has been developed as a complete learning platform which teaches children through games with interactive stories. It helps them collaborate and learn by developing a village.|5|0.82|0.90|November  9, 2010|79,847|http://www.foodforce2.com
+4207|E|BlockHead|BlockHead is a visual calculator, for the addition and subtraction of multiple-digit whole numbers. You drag-and-drop blocks to the answer area, and maybe click "carry" or "exchange" buttons. BlockHead does the rest!|7|0.82|0.88|September 23, 2009|740|
+4208|E|DataManager|The  DataManager Activity displays a unified view of the user's datastore including items on stored on the schoolserver and those also stored on the XO. The user may select which items to keep local.|2|0.82|0.82|August 30, 2009|4,105|http://wiki.sugarlabs.org/go/Activities/DataManager
+4209|P|Hop-A-Round|Round numbers with Hoppy the Grasshopper|2|0.82|0.94|September 20, 2009|29,513|
+4211|E|Map|The Map Activity uses a quick version of Google Maps for exploring the world.  Mapmaking tools add photos, text, and Wikipedia articles to the map. You can also download maps and lessons from an online library.|13|0.82|0.98|February  7, 2013|2,185|http://wiki.sugarlabs.org/go/Activities/Map
+4212|P|Domino|Domino es un juego en el que debemos jugar con fichas de valores equivalentes. Por ejemplo con sumas y restas y sus resultados o multiplicaciones. Tambien podemos jugar con fichas tradicionales. Actualmente se puede jugar contra la computadora.|8|0.82|0.94|February  8, 2010|50,599|
+4213|P|Ecomundo|Ecomundo es un juego de la vida, en el que se representa un ecosistema con pasto, conejos y zorros y en el que comen, se reproducen y mueren. Se pueden elegir las cantidades iniciales de cada uno y ver si el ecosistema es sustentable.|2|0.82|0.94|September 30, 2009|20,172|
+4214|P|Elements|Elements es una tabla de los elementos vinculada con Wikipedia y que permite almacenar notas por parte de los alumnos|2|0.82|0.94|December 14, 2009|32,772|
+4215|P|falabracman|falabracman|1|0.82|0.94|September 15, 2009|270,606|
+4216|E|USB Creator|Ubuntu USB desktop image creator|1|0.86|0.90|September 30, 2009|4,114|https://code.launchpad.net/~alsroot/usb-creator/sugar
+4217|P|Card Sort|Card Sort is a puzzle whose objective is to sort the tiles such that all of the intersections have black and white pairs of matching symbols.|8|0.82|0.94|January 26, 2013|19,113|
+4219|P|Food Force II|FoodForce2|3|0.82|0.88|November 14, 2009|13,037|http://seeta.in/j/products-and-services/food-force-ii.html
+4220|P|Deducto|Deducto is a learning activity aimed towards improving childrens’ skills to deducing logic through pattern recognition.|8|0.82|0.96|May 23, 2012|6,956|http://seeta.in/j/products-and-services.html
+4221|P|ColorDeducto|Color Deducto is a learning activity aimed towards improving childrens’ skills to deducing logic and learning colors and color schemes through pattern recognition.|5|0.82|0.96|March 15, 2012|10,147|http://seeta.in/j/products-and-services.html
+4222|P|Sliderule|A simple slide ruler activity|24|0.82|0.96|November 18, 2011|9,368|http://wiki.sugarlabs.org/go/Activities/Sliderule
+4223|P|X2O|x2o es un simple juego donde debes guiar la o hacia la x.|9|0.82|0.88|October 29, 2009|12,935|
+4224|P|Kaleidoscope|Kaleidoscope|12|0.82|0.94|October 29, 2009|15,006|
+4225|P|EatBoom|EatBoom is a simple addition game.|2|0.82|0.94|October 30, 2009|52,192|
+4226|P|Our Music|Our Music - Realtime sonic environments for children. Simple and advanced versions using either ASCII keyboard or MIDI controller. ASCII allows for multiple keyboards (collaboration), MIDI for a single performer/controller.|7|0.82|0.96|November  3, 2011|9,801|http://www.arthunkins.com
+4227|P|Our Music MC|Our Music MC - Multiple Controller version. Realtime sonic environments for children. Simple/advanced versions for ASCII keyboard or MIDI. ASCII allows for multiple keyboards, MIDI for multiple performers/controllers.|7|0.84|0.96|November  3, 2011|4,719|http://www.arthunkins.com
+4230|P|Micropolis|Micropolis. Just like SimCity.|8|0.82|0.84|November 12, 2009|27,118|
+4231|E|Bridge|Bridge|2|0.82|0.88|December 19, 2009|6,143|
+4232|P|BlockParty|BlockParty|7|0.82|0.94|November  6, 2009|44,847|
+4233|P|Ayuda|This is a help resource for kids. The help is about Classmate 3 and Sugar.|1|0.82|0.88|November  8, 2009|11,605|
+4234|P|Listen and Spell|Listen and Spell|2|0.82|0.88|November 21, 2009|14,125|http://seeta.in/j/products-and-services/listen-spell.html
+4235|E|Break Out|juego arcade.requiere Etoys|80601|0.82|0.88|November 10, 2009|5,947|
+4236|P|StackAttack|juego de arcade|80601|0.82|0.94|November 10, 2009|12,156|
+4241|P|OOo4Kids|Office suite for the 7-12, to create texts, presentations, calcsheets and  draws, fully OpenOffice.org and MS Office compatible.|3|0.82|0.96|August  1, 2012|16,456|http://wiki.ooo4kids.org/
+4242|P|Scribble|Scribble is an activity with which two or more Sugar users can collaboratively draw simple figures on a shared canvas.|2|0.82|0.88|November 23, 2009|5,572|
+4246|P|Dimensions (AKA Visual Match)|Visual Match is a pattern-matching game. The object of the game is to find sets of three cards where each attribute—color, shape, number of elements, and shading—either match on all three cards or are different on all three cards.|46|0.82|0.94|January 26, 2013|23,029|http://wiki.sugarlabs.org/go/Activities/VisualMatch
+4248|E|ninja fable|es un juego de avnturA|1|0.82|0.88|November 30, 2009|3,488|
+4249|P||Developer|||||37,577|http://scratch.mit.edu/
+4251|P|Erikos|Erikos|6|0.82|0.96|May 23, 2012|7,767|http://wiki.sugarlabs.org/go/Activities/Erikos
+4252|P|Guido Van Robot|Guido van Robot|1|0.82|0.94|December 11, 2009|2,234|
+4253|P|FotoToon|Esta actividad permite crear historietas, usando fotos o dibujos|13|0.86|0.96|June  6, 2012|107,228|
+4254|P|Kandid|Kandid is a system to evolve  graphical forms. In Kandid a population consist of images looking like abstract  art or patterns. These graphical forms are not drawn by hand.  Instead new forms can be found using an interactive genetic algorithm.|11|0.82|0.96|June 22, 2012|12,828|http://wiki.sugarlabs.org/go/Activities/Kandid
+4256|E|Lines|Screensaver no. 1|1|0.82|0.88|December 19, 2009|2,135|
+4257|E|Snow|Screensaver no. 2|1|0.82|0.88|December 19, 2009|3,616|
+4258|E|Bounce|screensaver no. 3|1|0.82|0.88|December 19, 2009|3,062|
+4259|P|XOlympics|Xolympics: a 2 player game where you are the triangle trying to hit the ball to the enemys backboard.|1|0.82|0.88|December 20, 2009|88,701|
+4260|E|Karma|Karma|2|0.82|0.88|December 20, 2009|2,241|http://karma.sugarlabs.org
+4261|E|Gmail|Gmail: Email from Google|5|0.82|0.88|December 21, 2009|17,519|www.gmail.com
+4262|E|Mozzila Firefox|Mozilla Firefox|6|0.82|0.88|December 21, 2009|20,073|
+4263|P|StopWatch|StopWatch is an easy to use software stopwatch for Sugar that supports both simple and advanced timing needs.|16|0.82|0.96|June  7, 2012|6,786|
+4264|P|Distance|Distance is an activity that uses sound to measure the distance between two computers.  If you have two laptops with speakers and microphones, Distance can turn them into an acoustic tape measure.|32|0.82|0.96|June  7, 2012|6,484|http://wiki.laptop.org/go/Distance
+4265|P|Escribir Especial|La actividad Escribir Especial es un editor de texto con un teclado por pantalla, el cual funciona de dos maneras: seleccionando las teclas con el puntero del ratón (mouse) o mediante un barrido tecla por tecla.|61|0.82|0.88|December 29, 2009|14,649|
+4266|P|FileShare|FileShare is an activity that allows the user to share files from their journal to other xo's or to a central server.|10|0.82|0.88|May 18, 2010|12,284|http://wiki.sugarlabs.org/go/FileShare
+4267|P|Geoquiz|Geoquiz is a geography guessing game.|5|0.92|0.96|July 21, 2012|2,158|
+4268|P|Chess|Chess|2|0.82|0.96|May 19, 2012|2,951|
+4269|E|Leer Pendrive|Reproductor de Pendrives|1|0.82|0.82|January 12, 2010|1,234|drupal.ceibaljam.org
+4270|P|TimeLapse|TimeLapse records audio, video, and images based on customizable increments and can play them back.|2|0.82|0.82|January 15, 2010|18,977|
+4271|P|Tuxmath|TuxMath is an arcade game that helps people practice their math facts.|2|0.82|0.94|April  7, 2010|166,089|
+4272|E|Mathematical Adventure: Fortune Hunter|Mathematical Adventure: Fortune Hunter draws on teaching children of a global scale fourth grade mathematics through the guise of a dungeon styled adventure game.|3|0.82|0.88|February 21, 2010|2,899|http://wiki.sugarlabs.org/go/Fortune_Hunter
+4273|E||Let me install this experimental activity.|4|0.82|0.88|January 30, 2010|1,397|
+4274|E|Fortune Maker|Fortune Maker is an easy to use graphical interface creation tool that works hand in hand with the Mathematical Adventure Fortune Hunter game to inspire creativity in all users up for the task.|1|0.82|0.88|February  2, 2010|1,707|http://wiki.sugarlabs.org/go/Fortune_Hunter/Fortune_Maker
+4275|P||||||||
+4276|E|ShowJPEG|ShowJPEG is a demo activity that shows a series of slides from a local directory (or, in the future, from an online source)|12|0.82|0.82|February 12, 2010|1,119|
+4277|P|GCompris Draw|A simple vector-drawing tool|13|0.82|0.90|February 19, 2010|21,897|http://gcompris.net/
+4278|P|GCompris Erase Double Click|Double click the mouse|14|0.82|0.90|February 27, 2010|18,267|http://gcompris.net/
+4279|P|GCompris Memory Enumerate|Enumeration memory game|14|0.82|0.90|February 27, 2010|17,961|http://gcompris.net/
+4280|P|GCompris Memory Word Number|Wordnumber memory game|14|0.82|0.90|February 27, 2010|31,488|http://gcompris.net/
+4281|P||||||||
+4282|P|GCompris Photo Hunter|Photo hunter|13|0.82|0.90|February 19, 2010|41,136|http://gcompris.net/
+4283|P|GCompris Scalesboard Weight|Balance the scales properly|14|0.82|0.90|February 27, 2010|75,033|http://gcompris.net/
+4284|P|GeoGebra 4 for Sugar|Dynamic Mathematics for Everyone|6|0.82|0.96|March 20, 2012|52,253|http://www.geogebra.org/
+4285|P|Java|Provides an easy way to install the Sun Java Runtime Environment (JRE) in Sugar. Execute the activity to see instructions on how to use this JRE from other activities or programs.|2|0.82|0.94|March 15, 2010|20,900|
+4286|P|Club de Othello XO|Club de Othello is an  educational activity based on the metaphor of a club of game Othello or Reversi players. It is intended for visually impaired children with the intention that these learn spatio-temporal concepts.-|2|0.82|0.88|March 29, 2010|32,809|
+4287|P|Plot|Plot|6|0.82|0.94|April 13, 2010|12,280|https://launchpad.net/sugar-plotter-activity
+4288|P|Quinteti|QuinTeTi is an add learning game, it's based in a 3x3 cell board in which numbers from 1 to 9 can be located with the objective of making the rows and columns sum fifteen. The game is for two players.|3|0.82|0.94|March 16, 2010|7,072|http://drupal.ceibaljam.org/?q=node/235
+4290|P|Jam2Jam|Jam2Jam XO lets you manipulate musical styles. As a solo or shared activity, users can play in a virtual band easily and with little musical knowledge or experience.|4|0.82|0.96|June 11, 2012|36,742|http://www.jam2jamxo.net/
+4291|P|Sugar Commander|Sugar Commander is a utility for working with the Journal.  You can easily add files as Journal entries, view and update title, description, and tags for entries and delete entries you no longer need.|8|0.82|0.94|August  9, 2011|17,019|http://wiki.sugarlabs.org/go/Activities/Sugar_Commander
+4292|P|TetrisMat|Eliminates three cells in this tetris performing simple math operations|2|0.82|0.96|October 30, 2012|16,382|
+4293|P|Abacus|Abacus is a simple abacus activity for Sugar.|44|0.82|0.98|January 25, 2013|15,974|http://wiki.sugarlabs.org/go/Activities/Abacus
+4294|E||Let me install this experimental activity.|1|0.82|0.88|April  5, 2010|1,711|
+4295|P||||||||
+4296|P|Wine|Wine is a software emulator.|23|0.82|0.88|April 12, 2010|43,684|
+4297|P||para los amantes de los juegos de plataformas les llega super tux u clon de mrio bros lo unico que es de tux.cuando lo descargen les va a dar que descargan flie.php no se preocupen|||||2,323|
+4298|P|Turtle Art|Turtle Art Mini is a simple graphical environment modeled on the Logo programming language. It emphasizes graphical expression by learners new to programming. (Turtle Art offers a small subset of the functionality of Turtle Blocks.)|149|0.82|0.96|July  8, 2012|4,324|http://wiki.sugarlabs.org/go/Activities/TurtleArt
+4299|E|XaoS|XaoS is an interactive fractal zoomer. It allows the user to continuously to zoom in or out of a fractal in a fluid, continuous motion. This capability makes XaoS great for exploring fractals, and it’s just plain fun!|4|0.82|0.88|May  4, 2010|2,693|http://wiki.sugarlabs.org/go/Activities/XaoS
+4300|P|StarChart|This activity will display a map of the sky showing the position of the visible stars, some of the larger and brighter deep-sky objects (DSOs), the "classical" planets, the sun and the moon.|13|0.82|0.94|January 25, 2012|3,534|http://wiki.laptop.org/go/StarChart
+4301|P|Sonata Media Player|Sonata Media Player|11|0.82|0.88|May  5, 2010|17,840|
+4303|P|MathGraph32|Created by Yves Biton (http://mathgraph32.org).|14|0.82|0.94|February 19, 2011|9,050|
+4304|P|Get Books|Get Books|11|0.82|0.96|April 10, 2012|3,169|
+4305|E|Open Video Chat|Open Video Chat|1|0.84|0.88|May 11, 2010|16,552|http://foss.rit.edu/projects/ovc
+4306|P||||||||
+4307|P|Sun-Moon Music|Sun-Moon Music  - Realtime Sonic Environments for Children. Requires a MIDI controller.|2|0.82|0.96|October 29, 2011|5,611|http://www.arthunkins.com
+4308|P|Sun-Moon Music MC|Sun-Moon Music MC - Realtime Sonic Environments for Children, Multiple MIDI Controller version. Collaborative exploration and performance encouraged. Requires 1 or more MIDI controllers.|2|0.82|0.94|October 29, 2011|2,178|http://www.arthunkins.com
+4309|P|FreeFromMalaria|FreeFromMalaria teaches children about the causes of Malaria, how to recognize its symptoms and enforces good practice for prevention. The activity is a story about a boy named Paul now available with voice narration in French, English and Spanish.|4|0.82|0.96|December 20, 2011|895|http://worldclassproject.org.uk
+4311|P|VncLauncher|VncLauncher|6|0.82|0.88|June 22, 2010|4,632|
+4312|P||||||||
+4313|P|GCompris|Full featured educational application for children from 2 to 10|18|0.82|0.98|December  5, 2012|20,239|http://wiki.sugarlabs.org/go/Activities/GCompris
+4314|P|GCompris Administration|Administration tool for GCompris activity|18|0.82|0.98|December  5, 2012|2,004|http://wiki.sugarlabs.org/go/Activities/GCompris
+4315|P|Words|A multi-lingual dictionary with speech synthesis.|17|0.82|0.96|June  4, 2012|3,067|http://wiki.laptop.org/go/Words
+4316|P||||||||
+4317|E|GTranslator|Sugarized version of the translation file editor "Gtranslator" ( http://projects.gnome.org/gtranslator/index.html )|1|0.84|0.88|June 30, 2010|3,764|
+4318|P|ConstellationsFlashCards|ConstellationsFlashCards|1|0.82|0.88|July  6, 2010|3,796|http://wiki.laptop.org/go/ConstellationsFlashCards
+4319|E||Conozco Peru|7|0.82|0.88|July  7, 2010|86|
+4320|P|Pukllanapac|Pukllanapac, a sliding puzzle game|9|0.82|0.96|May 23, 2012|27,561|http://wiki.sugarlabs.org/go/Activities/Pukllanapac
+4321|P|Lemonade|This is your basic "Lemonade Stand" style game, where the player manages a lemonade stand (or similar store) and tries to make as much money as possible. The game is designed to incorporate money and fractional math skills to teach basic operations.|5|0.82|0.94|November 12, 2010|10,721|http://wiki.sugarlabs.org/go/Lemonade_Stand
+4322|E|Produce Puzzle|Produce Puzzle|4|0.82|0.90|February 17, 2011|661|https://fedorahosted.org/fossrit/wiki/ProducePuzzle
+4323|P|Dr.|Dr. Geo is an interactive geometry activity.|||||27,814|http://www.drgeo.eu/download-install
+4324|P|Conozco Alimentos|Juego sobre el plato de la alimentación.|2|0.82|0.96|January 14, 2012|31,041|http://ceibaljam.org/drupal/?q=node/951
+4325|E|RiverHex|RiverHex is a connection game. Each player should make a continuous link of hexagons from one side to the opposite side of the board game. RiverHex could be played against the XO or with 2 players on the same machine.|2|0.82|0.88|August 23, 2010|472|
+4326|P|Backup|Activity to back up the Sugar Journal (or rather the Sugar data store) to external storage media.|5|0.82|0.94|February 25, 2011|2,388|http://git.sugarlabs.org/projects/backup
+4327|P|Restore|Counterpart of the Backup activity.|4|0.82|0.94|February 25, 2011|2,193|http://git.sugarlabs.org/projects/restore
+4328|P||||||||
+4329|P|FileMix|FileMix - Creative Audio File Player/Mixer/Processor Utilities for Children. Options for MIDI controller (preferably) or ASCII keyboard. User soundfiles can be loaded via the Journal (Sugar &gt;= 0.84 only).|10|0.82|0.96|October 29, 2011|11,321|http://www.arthunkins.com
+4330|P||||||||
+4331|P|Spirolaterals|The first of Peter the Magician's Puzzle Activities.|23|0.82|0.96|December 21, 2011|30,644|
+4332|E|Help Arabic|Arabic version of XO Help activity based on the http://flossmanuals.org|5|0.82|0.86|October  2, 2010|147|
+4333|P||||||||
+4334|E||Activity for distribute archives|1|0.82|0.90|October  5, 2010|208|
+4336|P|Numbers|The second of Peter the Magician's Puzzle Activities.|25|0.82|0.94|May  1, 2011|13,055|
+4338|P|EduKT|Download Now|3|0.82|0.94|October 17, 2010|13,588|
+4339|E|Midi Player|Actividad para abrir archivos midi, trae un piano y un teclado como ejemplos|1|0.82|0.90|October 17, 2010|556|
+4340|P|Read SD Comics|Read SD Comics lets you use the Journal to read CBZ's stored on your XO laptop's SD card or USB thumb drives.|2|0.82|0.94|November  8, 2010|4,102|http://wiki.sugarlabs.org/go/Activities/Read_SD_Comics
+4341|P|Turtle Machine|Another "pre-turtle" activity. This one I see as following on from "Spirolaterals".|22|0.82|0.94|May  3, 2011|12,488|
+4342|E|Tofu Hunt|Tofu Hunt es un juego donde tienes que encontrar las diferencias entre las dos imagenes|1|0.82|0.90|October 21, 2010|226|
+4343|E|Productive|Juego para jugar en dos computadoras xo, para conectar con otra xo, invitamos al amigo esperamos un poco y podremos jugar de a dos al juego|2|0.82|0.90|October 21, 2010|225|
+4344|E||Juego de TicTacToe o Ta Te Ti|1|0.82|0.90|October 21, 2010|245|
+4345|P|Bubble Pop|Juego donde tienes que dar click en las burbujas para explotarlas, Diviertete explotando|1|0.82|0.94|October 21, 2010|8,928|
+4346|E||Juego de Roles de ceibaljam|1|0.82|0.90|October 21, 2010|480|
+4347|P|Wordsearch|WordSearch es una actividad donde tienes que encontrar las palabras que a la derecha te aparecen|1|0.82|0.94|October 21, 2010|4,980|
+4349|P|Edit|A simple collaborative plain-text editor.|8|0.86|0.90|November 25, 2010|2,741|
+4353|E|DevTutor|DevTutor is an activity which helps in understanding the API provided by Sugar.|1|0.82|0.90|October 29, 2010|369|http://seeta.in/wiki/index.php?title=DevTutor
+4354|P|Follow Me|A simple little game which requires good concentration.|22|0.82|0.94|May  4, 2011|15,144|
+4355|P|JAMedia|Reproductor de Audio y Video.|10|0.94|0.96|October  1, 2012|127,764|https://sites.google.com/site/sugaractivities/jam
+4356|P|GeoJAM|Sugarización de GMapCatcher|3|0.82|0.98|February  3, 2013|18,592|https://sites.google.com/site/sugaractivities/geojam
+4357|P||JAMesene es la sugarización de emesene para tu xo.|||||31,917|https://sites.google.com/site/sugaractivities/jamesene
+4360|P|Calendar|Calendar, tasks list, and tasks reminder. Manage tasks by category and priority.|6|0.82|0.96|March 16, 2012|6,347|http://wiki.sugarlabs.org/go/Activities/calendario
+4361|E|Conozco Nicaragua|Actividad que destinada al reconocimiento geográfico de departamentos y volcanes de Nicaragua. Este proyecto esta basado en la actividad Conozco Uruguay.|1|0.82|0.90|November  9, 2010|561|http://wiki.sugarlabs.org/go/Activities/Conozco-Nicaragua
+4362|P|Idle|Idle is a python shell|2|0.82|0.94|November 10, 2010|17,480|
+4363|P|Mirage I.V.|Download Now|1|0.82|0.90|November 11, 2010|31,463|
+4364|P||||||||
+4365|P||||||||
+4366|P|Tessellations|This activity indulges my passion for tessellations and jigsaws.|23|0.82|0.94|May 13, 2011|7,935|http://mulawa.net/olpc/tessellations/index.html
+4367|E|Opera|Opera is a web browser|1|0.82|0.90|November 16, 2010|1,762|
+4368|P|FollowMe Butia|This is a simple object detector. If you put an object in front of the camera, the activity follow it! Try... It's very fun!|7|0.90|0.98|September 19, 2012|13,513|http://www.fing.edu.uy/inco/proyectos/butia/FollowMe
+4369|E|NES|Emulates the classic 8bit console|1|0.82|0.90|November 23, 2010|692|
+4370|P|CucaraSims|CucaraSims. Actividad de aula, (lúdico) para aprender sobre los insectos.|3|0.94|0.96|August 12, 2012|33,847|https://sites.google.com/site/sugaractivities/cucarasims
+4371|P|Boxes|Usually called "Dots &amp; Boxes", this activity revisits the game from our childhood but here the students get to play against me.|22|0.82|0.94|May 13, 2011|13,518|
+4372|E|Conozco Actividades|Conozco Actividades|1|0.82|0.90|December 15, 2010|333|
+4373|E|gcdActivity|gcdActivity is a small activity for help to understand the concept of Greatest common(gcd) divisor through of a simple Arcade game|1|0.82|0.90|December 16, 2010|280|
+4374|E|OggConvert|OggConvert is a file converter to wav and other formats to ogg xo|1|0.82|0.90|December 17, 2010|298|
+4375|P|Radio|Radio is a web radio / mp3 player.|9|0.84|0.94|January 23, 2011|31,560|
+4376|E|SugarizeHelp_Es|It created an activity that boys and girls can learn to create and unsugarized activities for xo. This version is only in Spanish|1|0.82|0.90|January  1, 2011|206|http://sugarizehelp.blogspot.com
+4377|E|XoPhoto|XoPhoto permits Photo selecting, grouping, add title, description, do sorting, importing, exporting from/to USB/SD, automatic slideshow presentation|9|0.82|0.84|January  9, 2011|241|
+4378|E|PyDebug|PyDebug is a tool for writing and debugging Activities for the Sugar desktop platform that is optimized for offline, stand alone program development on the XO.|7|0.82|0.84|January  9, 2011|140|
+4379|P|Eleusis|The cards are dealt out and accepted or rejected according to a simple secret rule - e.g. "all cards must be red". There are 19 different rules.|22|0.82|0.92|May 13, 2011|5,971|
+4380|E|Escape from Labyrinth|Labyrinth is a rpg game labyrinth game created for coderanger, sugarized for me|1|0.82|0.90|January 10, 2011|1,220|
+4381|P|Jam Game Boy Advance|Jam Game Boy Advance is an emulator for Game Boy and Visual Boy Advande roms|2|0.82|0.96|June 26, 2012|3,156|
+4382|P|Rectangles|The grid is broken up into coloured rectangles but, at the start, only ONE square from each rectangle shows its colour. This square also shows the area (ie the number of squares) of the rectangle. The player must find all the rectangles.|23|0.82|0.94|May 23, 2011|4,678|
+4383|P|GoGo|GoGo-Board interface for creating on-board Logo programs, direct sensor monitoring &amp; motor control, data capture and much more!|2|0.82|0.94|January 13, 2011|4,725|http://wiki.sugarlabs.org/go/Activity/Gogo
+4384|P|PJ|20 exciting jigsaws - each with 40 unique pieces. Pieces are randomly rotated but there is a button to make them all the right way up.|22|0.82|0.94|May 16, 2011|4,256|
+4385|P|PJ Lite|20 exciting jigsaws - each with 12 unique pieces. This is a simplified version of PJ for younger children - the pieces are all the right way up.|22|0.82|0.94|May 16, 2011|4,217|
+4386|P||||||||
+4397|P|Castle|A game of discovery and strategy inspired by the Adventure games of the 70s.|23|0.82|0.94|May 21, 2011|59,494|http://mulawa.net/olpc/castle
+4398|P|Trails|Tiles are placed so that the numbers run in sequence from left to right and down the grid. Numbers may also repeat. A tile placed on its ghost image scores.|23|0.82|0.94|May 21, 2011|3,977|
+4399|P|Blocku|A math based sudoku style puzzle game. The player is given an answer and they have to complete the puzzle by matching the sides of the blocks together by arranging them in a grid.|3|0.82|0.90|February 22, 2011|5,757|
+4400|E|HacketyHack|HacketyHack|1|0.90|0.90|February  3, 2011|346|
+4401|E|Wikipedia|WikiBrowse is a wiki server and compressed set of wiki pages that together act as a self-contained browsable offline wikireader (in spanish)|31|0.86|0.94|October 19, 2011|4,058|http://wiki.laptop.org/go/Wikibrowse
+4402|P|FileMixAuto|FileMixAuto - Automated Audio File Looper/Mixer/Processor for Children. (FileMixAuto is a random, preset version of FileMix.) Up to 4 user soundfiles can be loaded via the Journal (Sugar &gt;= 0.84 only).|5|0.82|0.96|September 12, 2011|5,104|http://www.arthunkins.com
+4403|P|Sudoku|Each tile is placed so that it is alone in its row, column and coloured square. Always there is at least one tile that can be placed with certainty - no trial and error is required.|28|0.82|0.94|June  2, 2011|26,202|
+4405|E||Butterfly catching game, version in inglish|1|0.82|0.92|February 27, 2011|232|
+4406|E|Cave Story|A fun, retro-style platform game wth a great plot!|1|0.82|0.90|March  1, 2011|2,123|
+4407|P|Juani Downloader|Juani Downloader,download archives|2|0.82|0.94|March  4, 2011|14,235|
+4408|E||Let me install this experimental activity.|2|0.82|0.96|November 21, 2011|390|
+4409|P|Paths|Paths is a sliding tile game where the goal is to create closed paths.|14|0.82|0.96|February 29, 2012|6,402|http://wiki.sugarlabs.org/go/Activities/Paths
+4410|E|MotionCapture|MotionCapture V.^6|3|0.82|0.92|March  4, 2011|334|
+4411|E|WikipediaEN|This is a offline version of the english Wikipedia.|31|0.86|0.94|October 19, 2011|736|
+4412|P||||||||
+4413|P|Jumble|In a jumble of 83 objects, the player has to locate 20.|22|0.82|0.94|May 23, 2011|34,918|
+4414|P|Appel Haken|You're looking at a map with straight borders. Your task is to colour in the map so that no two bordering countries have the same colour.|24|0.82|0.94|June 27, 2011|3,778|
+4415|P||Developer|||||12,112|
+4416|E|MathMe|MathMe it's a simple game where you have to solve a mathematic operation|1|0.82|0.92|March 19, 2011|126|https://github.com/worg/MathMe
+4417|E|iDeas|iDeas|2|0.82|0.96|November 22, 2011|391|
+4418|P|Hello World|The "Hello world" Activity will print out "Hello world" on the screen. It is one of the simplest Activities possible in Sugar. Therefore, it can be used as a starting point to examine the activity code and create your own Sugar activity.|3|0.82|0.94|August 30, 2011|4,564|http://git.sugarlabs.org/hello-world
+4419|P|AguBrowser|Navegador, muy rápido, fácil de usar, sencillo, gratis, libre, etc...|3|0.82|0.94|July  1, 2011|33,494|https://sites.google.com/site/agustinzubiaga/ppy/programas/agubrowse/
+4420|P|Mancala|This is one of my favourite games - very simple to play yet it requires lots of careful thought, counting and planning.|22|0.82|0.94|May 26, 2011|12,967|
+4421|P||||||||
+4422|P|Ominoes|The picture shows Level 3 completely solved. The shapes are made from 5 squares and are called pentominoes. Level 4 requires the player to find the 35 hexominoes.|22|0.82|0.94|June 17, 2011|6,994|
+4423|P|hMouse|hMouse let the user take the control of the mouse with the head, using an easy to made extra hardware.|1|0.82|0.94|April  4, 2011|1,456|http://wiki.sugarlabs.org/go/Activities/hMouse
+4424|E||Let me install this experimental activity.|1|0.82|0.92|April  5, 2011|167|
+4425|E|PyEyes|A simple game to explore...|2|0.82|0.92|April  5, 2011|346|
+4426|P|Shapes|This is my take on the old game of "Battleships". Four shapes are "hidden" on the grid. Left click on a square if you think it is part of a shape. Otherwise right click.|22|0.82|0.94|June 17, 2011|4,340|
+4427|P||DrPython is a python IDE (Developing) This activity work in some Sugar with|||||2|
+4428|E|Nutri|Nutri is an event driven nutrition calculator that allows users to enter the number of "Fists" (portions) of a certain food group they have eaten. The results are displayed in the form of a health meter accompanied by suggestions for a better diet.|1|0.82|0.92|April 17, 2011|200|http://nutriactivity.wikispaces.com/
+4429|P|Napier's Bones|Napier's Bones are a simple multiplication calculator invented by John Napier in the 16th century.|4|0.82|0.96|November 18, 2011|1,907|http://en.wikipedia.org/wiki/Napier&#37;27s_bones
+4430|P|Learn|The Learn Activity is a component of the Karma Learning System. This version is designed to demonstrate its features when used with a school server by using a removable drive to hold the sample content.|61|0.84|0.96|November  8, 2012|578|http://wiki.sugarlabs.org/go/Activities/Learn
+4431|P|JAMexplorer|JAMexplorer|3|0.94|0.96|September 27, 2012|4,058|https://sites.google.com/site/sugaractivities/ceibalterminal
+4432|E|Bingo|Bingo - The game of Bingo. This activity is under development. It is intended to be shared. The initiator is caller. Players join with one or more cards. Squares show numbers or images. Call may be traditional (O-64) or a description.|1|0.84|0.84|April 25, 2011|201|
+4433|P||||||||
+4434|P|TurtleBots|TurtleBlocks with some Robot plugins: Butiá, Lego NxT, Lego WeDo, FollowMe|18|0.92|0.98|December 26, 2012|8,073|http://wiki.sugarlabs.org/go/Activities/TurtleBots
+4435|P||||||||
+4436|P|Gnumeric|Gnumeric, spreadsheet|1|0.88|0.94|May  9, 2011|559|
+4437|P|Portfolio|Portfolio is a simple tool for generating a slide show from Journal entries that have been starred.|30|0.82|0.96|October 30, 2012|8,183|http://wiki.sugarlabs.org/go/Activities/Portfolio
+4438|P||||||||
+4439|P|OOo4KidsEs|OOo4KidsEs - OpenOffice for Kids.|3|0.82|0.96|August  1, 2012|4,594|http://wiki.ooo4kids.org
+4440|P|OOo4KidsFr|OOo4KidsFr - OpenOffice for Kids|3|0.82|0.96|August  1, 2012|2,761|http://wiki.ooo4kids.org
+4441|P|Madagascar|Madagascar|2|0.82|0.94|May 20, 2011|6,131|http://olpc-france.org
+4442|E|Conozco Elementos Químicos|Conozco Elementos Químicos is an educational activity on the chemical elements in the following versions will include more things|1|0.82|0.92|May 17, 2011|344|
+4443|E|Sort Game|Clustering Game|1|0.92|0.92|May 19, 2011|100|http://semweb4u.wordpress.com
+4444|P||||||||
+4445|E|Mapa Ceibal|Mapa Ceibal|5|0.82|0.92|June  6, 2011|417|
+4446|P|Mateton|A blackboard that let the children do basic math as they would in their exercise book, and let the teachers analyze how the children thinks and where and how they made mistakes.|6|0.82|0.96|March 30, 2012|3,047|http://wiki.sugarlabs.org/go/Activities/Mateton
+4447|P|Screencast|Screencast|8|0.82|0.98|December  6, 2012|3,172|http://wiki.sugarlabs.org/go/Activities/Screencast
+4448|E|Mini vMac|Mini vMac|1|0.82|0.92|June 11, 2011|167|
+4449|E||Let me install this experimental activity.|1|0.82|0.92|June 11, 2011|318|
+4450|P|Turtle Confusion|Turtle Confusion presents 40 shape challenges to the learner that must be completed using basic Logo-blocks. The challenges as based on Barry Newell's 1988 book, Turtle Confusion: Logo Puzzles and Riddles.|149|0.82|0.96|July  8, 2012|14,968|http://wiki.sugarlabs.org/go/Activities/Turtle_Confusion
+4451|P|PMJ|Peter's Moving Jigsaws - 12 pictures to choose from - rectangular pieces. Pieces are swapped until the puzzle is solved. Note that this a fairly large download (over 4 MegaBytes) - check your Journal has enough space before downloading.|22|0.82|0.94|June 17, 2011|6,662|
+4454|P||||||||
+4455|P|TeachTeacher|Tsquare is an activity for all the OLPC trainers scattered throughout the world.|3|0.82|0.92|June 23, 2011|1,019|
+4456|P||||||||
+4457|P|Butialo|Program your Butiá robot using the Lua programming language|4|0.82|0.94|July 31, 2011|3,989|http://wiki.sugarlabs.org/go/Activities/Butialo
+4458|P|Totem|Totem Sugarizado &#43; plugins gstreamer|2|0.82|0.94|June 27, 2011|22,513|https://sites.google.com/site/sugaractivities/home/programando-en-la-xo/sugarizar-una-aplicacion
+4459|P|Image Processor|Image Processor provides user an option to take photo through webcam or from journal, disks and apply filtering options like inverting an image, making mirror of an image, many other. Also a user can watermark any other image/ text over the image.|8|0.86|0.92|July 24, 2011|7,620|
+4460|P|Sokoban|A game requiring careful thought and planning. It may be played in tablet mode.|23|0.82|0.94|July  4, 2011|9,511|
+4461|P|Triples|The challenge is to find 10 sets of 3 matching cards.|25|0.82|0.94|February  3, 2012|10,730|
+4462|P||||||||
+4463|P|IQ|Fit the ten coloured pieces into the square. There are ten different puzzles - each starts with a different piece in the top left corner.|22|0.82|0.94|July 17, 2011|4,141|
+4464|P|I know America|Game about the America geography. It has 30 maps of each coutry and 3 generals.|7|0.82|0.98|October 22, 2012|98,236|http://wiki.sugarlabs.org/go/Activities/ConozcoAmerica
+4465|P|About Me|About Me|3|0.86|0.88|October 12, 2011|12,371|
+4466|E|GemJeweld|GemJeweld is an activity where you'll have to gather 3 or more jewels in a row to score points.|1|0.82|0.92|July 29, 2011|447|http://christoferr.blogspot.com/p/gemjeweld.html
+4467|E|Star Pusher|Star Pusher is Sokoban clone|1|0.82|0.92|July 30, 2011|261|
+4468|P|Soma|A 3D version of Ominoes but limited to 4 or 5 cubes. The picture shows the 4 cube version almost solved. Tablet mode works here.|25|0.82|0.94|July 30, 2011|7,464|
+4469|E|Conozco Paraguay|Modification of Conozco Uruguay for learning Paraguayan geography.|2|0.82|0.94|September 16, 2011|188|
+4470|P|Pursuit|Six coloured turtles pursue each other producing beautiful patterns.|22|0.82|0.94|August  6, 2011|4,538|
+4471|P|Textdungeon|A text-based dungeon game for literacy and numeracy|3|0.82|0.94|August 17, 2011|4,162|http://wiki.sugarlabs.org/go/Activities/Textdungeon
+4472|P|SimCom|SimCom is a Simple Computer that really works. Pupils can see what really goes on behind the scenes in a real computer. The picture shows a program running and printing the prime numbers.|26|0.82|0.94|January 18, 2012|4,356|http://mulawa.net/olpc/simcom/index.html
+4473|P|El Secreto de Graken|Spanish only.|4|0.82|0.88|January 16, 2012|8,847|http://lanave.com.uy/graken/
+4474|P||||||||
+4475|P|DidgArt|My inspiration for this activity comes from Australian Aboriginal Art. DidgArt offers several drawing shapes which can easily be coloured, re-sized or rotated.|27|0.82|0.94|September  9, 2011|2,862|
+4476|P|Python Tute|Easy to follow interactive tutorial for Python and Pygame.|29|0.82|0.94|August 31, 2011|2,820|
+4477|P|Letters|Inspired by the TV show, "Letters and Numbers".|23|0.82|0.94|August 31, 2011|4,758|
+4478|P||||||||
+4480|E|Anno|Anno is a version of Read that allows to share bookmarks -- here called annotations -- not just within your local network, but with all other Anno users.|1|0.92|0.94|September 13, 2011|40|
+4481|P|Telescope|Telescope is an activity meant to be used with the XO laptop connected to a small telescope/monocular.|12|0.82|0.94|October 25, 2011|6,692|
+4482|P||||||||
+4483|P|Kiwix|Offline Wikipedia reader using the ZIM file format. Get Offline packages at http://www.kiwix.org|9|0.82|0.96|July 16, 2012|3,699|http://www.kiwix.org
+4484|P|Pilas|Pilas is an engine for making videogames in an easy way.|1|0.90|0.94|September 26, 2011|4,058|http://wiki.sugarlabs.org/go/Activities/Pilas
+4485|P|Derecho a Transitar|Derecho a Transitar|3|0.94|0.96|September 27, 2012|21,734|
+4487|P|MouseCam|mouseCam allow to control the mouse pointer of the XO using the video cam and paper marks.|4|0.88|0.96|January 18, 2012|3,323|www.fing.edu.uy/nexo
+4488|P|FractionBounce|FractionBounce is a game that prompts the player to nudge a bouncing ball to land at a point on the bottom of the screen that is an estimate of a given fraction. Eg, if 1/3 is displayed, then the ball must land 1/3 the distance along the bottom.|14|0.82|0.96|February 29, 2012|15,969|http://wiki.sugarlabs.org/go/Activities/FractionBounce
+4489|P|SamplePlay|SamplePlay - Creative Audio Sample Player Utilities for Children. Options for MIDI controller (preferably) or ASCII keyboard. User samples and background loop can be loaded via the Journal (Sugar &gt;= 0.84 only).|4|0.82|0.96|November  1, 2011|3,099|http://www.arthunkins.com
+4490|E|Xo Vnc Viewer|XO Vnc Client|1|0.82|0.94|October  7, 2011|252|https://sites.google.com/site/santiagodanielfrancis/mis-programas-para-las-xo/xo-vnc-client
+4491|E|Ayni|Ayni es un juego sobre solidaridad y cooperación, el|1|0.82|0.94|October 10, 2011|200|
+4492|P||||||||
+4493|E|Crikey|Crikey is a sensor-centric remix of the Measure activity. Observe your actions and draw graphs using realtime sensor input.|61|0.82|0.94|November  3, 2011|78|
+4494|P|Sugar File Manager|A File Manager for Sugar.|2|0.82|0.94|November 18, 2011|3,805|https://sites.google.com/site/sugarfilemanager/
+4495|P||||||||
+4496|P||||||||
+4497|P|Time Line|Allows create interactive time lines.|3|0.82|0.98|October 22, 2012|6,915|
+4498|P|Across and Down|My inspiration for "Across &amp; Down" comes from Scrabble. Players have to make interlocking English words. The board has "ghost" letters on it. For example if you place a "z" on a "z", you score 8 points.|24|0.82|0.94|October 29, 2011|2,724|
+4499|P||||||||
+4500|P||||||||
+4501|P|Yum Downloader|Yum Downloader|4|0.86|0.98|October 10, 2012|1,362|
+4502|P||||||||
+4503|P||||||||
+4504|P||||||||
+4505|P|End Game|A simple yet entertaining interactive introduction to Chess. Covers piece moves, capture, protection, pawn promotion, checkmate and stalemate. Includes 4 playable end games with the winning strategy demonstrated.|28|0.82|0.96|December  5, 2011|3,094|
+4506|P|CantaBichos|CantaBichos|2|0.94|0.96|September 27, 2012|7,127|
+4507|P|ClassRoomBroadcast|ClassRoomBroadcast|10|0.82|0.96|January 24, 2012|374|http://wiki.sugarlabs.org/go/Activities/Classroom_Broadcast
+4508|P|JAMClock|JAMClock. Un reloj y calendario hechos en pygame, utilizando BiblioJAM.|2|0.82|0.96|December  6, 2011|1,194|
+4516|P|Turtle in a Pond|Turtle in a Pond is a strategy game. The goal is to surround the turtle before it runs off the screen.|6|0.82|0.96|December 16, 2011|562|http://wiki.sugarlabs.org/go/Activities/Turtle_in_a_Pond
+4517|P|Reflection|Reflection is a game designed around reflective symmetry. The user modifies an image until it has reflective symmetry around either the horizontal or vertical axis.|8|0.82|0.98|November 14, 2012|1,215|http://wiki.sugarlabs.org/go/Activities/Reflection
+4518|P|Flip|Flip is a simple strategy game where you have to flip "coins" until they are all heads up,|4|0.82|0.96|May 23, 2012|987|http://wiki.sugarlabs.org/go/Activities/Flip
+4519|P|JAMEdit|Download Now|1|0.86|0.96|December 10, 2011|1,073|http://wix.com/aguszs97/jamedit
+4520|P|terronesWEEPER!|Game similar to the minesweeper.|2|0.88|0.96|May  4, 2012|5,016|
+4521|E|Roots|Roots is a genealogic activity for Sugar. Roots allow users to create a genealogical tree (parents, unions, childs, ...). A description and an image could be link to each node.|1|0.82|0.96|December 28, 2011|118|
+4522|P||||||||
+4523|P|Pointillism|Creates a pointillist image from the camera captures|6|0.92|0.98|August 22, 2012|4,358|
+4524|P|Panorama|Activity that allows you capture panoramic views|7|0.92|0.98|October 22, 2012|4,073|
+4525|P|Weigh|One of 3 balls is either lighter or heavier than the rest.|23|0.82|0.96|January  5, 2012|2,360|
+4526|P|Kuku Anakula|Kuku (Hungry Chicken), is based on the basic arithmetic education game Number Munchers.|4|0.82|0.96|May 27, 2012|11,137|http://wiki.laptop.org/go/Kuku
+4527|P|ClassRoomViewer|ClassRoomViewer|4|0.82|0.94|January 24, 2012|129|
+4528|P|Countries|Players have to type in a country for each letter of the alphabet. Successes are rewarded with the display of the country's flag. The activity 'knows' the English names of 212 countries.|33|0.82|0.96|January 24, 2012|5,751|http://mulawa.net/olpc/countries
+4529|P|I Can Read|I Can Read is a simple reader: it combines letters, pictures, and sounds. It also has mechanism for recording the student's voice.|3|0.82|0.96|February 16, 2012|2,773|http://wiki.sugarlabs.org/go/Activities/I_can_read
+4530|P||||||||
+4531|E|Shock Therapy|Shock Therapy|6|0.86|0.96|July  9, 2012|116|http://electroshocktherapy.googlecode.com/
+4532|E||This activity include all the articles and images in the Kinyarwanda Wikipedia.|33.3|0.86|0.96|February  8, 2012|215|
+4533|P|Yupana|Yupana is a counting and calculating device used by the Incan. It is similar to an abacus.|8|0.82|0.94|February 13, 2013|551|http://wiki.sugarlabs.org/go/Activities/Yupana
+4534|P|Chart|Chart|6|0.86|0.96|July 18, 2012|8,314|http://wiki.sugarlabs.org/go/Activities/SimpleGraph
+4535|P|WikipediaPL|This is a offline version of the Polish Wikipedia, with more than 48.000 articles and 2900 images|33.3|0.86|0.96|February  8, 2012|1,664|
+4536|P|WikipediaQU|This is a Quechua Wikipedia activity.|33.3|0.86|0.96|February  8, 2012|920|
+4537|P|Trans|Fun with rotation and reflection - 16 different pictures - 3 levels: 8, 18 or 32 pieces. The picture shows Level 1 almost solved.|26|0.82|0.94|February 12, 2012|2,739|
+4538|P|Oct|A fun fullscreen jigsaw with octagonal and square pieces. Comes with 16 pictures - these may be added to or replaced. Click to pick up a piece, click to put it down.|29|0.82|0.94|February 14, 2012|3,324|
+4539|P|Lybniz Graph Plotter|Lybniz Graph Plotter sugarization,|1|0.82|0.96|February 16, 2012|2,434|
+4540|P|WikipediaFR|A French wikipedia activity. Includes 22.100 articles.|33.4|0.82|0.96|February 18, 2012|1,409|
+4541|P|Star Catcher|The numbers indicate how many of a cell's 8 neighbours contain a star. Right click on a tile if you think it hides a star, otherwise left click. The display at left is keeping track of your progress.|32|0.82|0.94|February 22, 2012|6,303|
+4542|P|JAMediaVideo|Reproductor de audio y video.|3|0.94|0.96|September 27, 2012|11,658|https://sites.google.com/site/sugaractivities/jam/jamediavideoestudio
+4543|P|Sin dientes|Words game|3|0.82|0.96|March  1, 2012|36,308|
+4544|P|ChimePlay|CHIMEPLAY - Chime and Bell Player Utilities for Children. These are custom versions of SAMPLEPLAY for windchime and bell sets.Two 6-chime sets are included.|2|0.82|0.96|June  4, 2012|2,396|http://www.arthunkins.com
+4545|P|Analyze Journal|This activity gives you the possibility to graphically, the journal usage|2|0.86|0.98|October  3, 2012|1,089|http://wiki.sugarlabs.org/go/Activities/Analyze_Journal
+4546|P|JAMediaImagenes|Pequeño editor de Imágenes.|1|0.82|0.94|March 10, 2012|6,284|https://sites.google.com/site/sugaractivities/jam/jamediaimagenes
+4547|P||This is a offline version of the Simple English Wikipedia, with more than 90.000 articles.|33.5|0.96|0.96|March 15, 2012|2,659|
+4548|P|JAMediaTube|Busca y Descarga Videos desde YouTube|4|0.94|0.96|October  5, 2012|115,418|https://sites.google.com/site/sugaractivities/jam/jamediatube
+4549|E||Utilidad para desbloquear usuario root de la xo|1|0.82|0.96|March 25, 2012|96|
+4552|E|Grabar|Grabar Con Icono Nuevo En Su Ultima Versión|95|0.82|0.96|April  4, 2012|1,024|mgflash.mex.tl
+4553|E|Charlar|Charlar Con Un Nuevo Icono En Su Ultima Versión|74|0.82|0.96|April  4, 2012|223|mgflash.mex.tl
+4554|P|JPeces (Tangram Game)|JPeces-Tangram: Java version for «Peces» program. Peces is an open source game based on the Chinese game called Tangram. You can play with 39 tangram patterns and solve more than 18000 figures.|6|0.82|0.96|April 15, 2012|9,412|http://pecesjocdetangr.sourceforge.net/
+4555|P|Nutrition|Nutrition is a collection of four nutrition games: Name That Food; How Many Calories?; How Much to Eat?; and Is This a Balanced Meal?|6|0.82|0.98|August 24, 2012|11,517|http://wiki.sugarlabs.org/go/Activities/Nutrition
+4556|P|JigsawTon|Puzzleton is a game to resolve jigsaws with the pieces number you decide. You can use the default image set that come with the game or you can choose any image file in your Journal.|2|0.82|0.96|April 18, 2012|3,710|
+4557|E|BioDiv|BioDiv is a programme on biodiversity. It includes the features: Discover (displays a random animal from the database), animals of the environment (indicates an animal of the selected region), search and a quiz.|6|0.82|0.98|December 19, 2012|187|http://schulemachtzukunft2012-004.jimdo.com
+4561|P|Dr. Geo|Interactive geometry http://drgeo.eu|1204|0.82|0.96|April 22, 2012|8,598|http://drgeo.eu
+4562|P||||||||
+4563|P||||||||
+4564|P||||||||
+4565|P|Story|Story is an activity that uses images to prompt the learner to tell stories.|5|0.82|0.96|June  2, 2012|3,597|http://wiki.sugarlabs.org/go/Activities/Story
+4567|P|Recall|The Recall Activity is a series of four memory games, each of increasing difficulty.|2|0.82|0.96|May 12, 2012|4,310|http://wiki.sugarlabs.org/go/Activities/Recall
+4572|P|JAMultiples|Juego de Múltiplos|5|0.82|0.96|May 22, 2012|5,879|
+4573|E|ScorePad|The ScorePad activity functions as a tool for project assessment.|1|0.82|0.96|May 17, 2012|67|http://wiki.sugarlabs.org/go/Activities/Scorepad_Activity
+4574|E|EvilToys|EvilToys|4|0.82|0.96|May 17, 2012|218|
+4575|E|YardStick|YardStick|1|0.82|0.96|May 25, 2012|65|http://wiki.sugarlabs.org/go/Activities/Yardstickactivity
+4576|P|LocoSugar|LocoSugar is a simple game for discovering how to use the mouse and keyboard. Inspired by CucoXO, it walks the user through a series of simple games.|8|0.82|0.94|January 26, 2013|10,707|http://wiki.sugarlabs.org/go/Activities/LocoSugar
+4577|P|HorseGame|The old HorseGame activity|4|0.82|0.96|May 27, 2012|8,790|http://wiki.sugarlabs.org/go/Activities/HorseGame
+4578|P|CookieSearch|CookieSearch is a simple "mine sweeper" game where the goal is to find cookies.|1|0.82|0.96|May 25, 2012|5,679|http://wiki.sugarlabs.org/go/Activities/CookieSearch
+4579|P|SprayPlay|The old SprayPlay activity|2|0.82|0.96|May 26, 2012|11,720|http://wiki.sugarlabs.org/go/Activities/SprayPlay
+4580|P|GoGoNews|GoGoNews Activity is a news application for your XO laptop.|1.1|0.82|0.96|June 11, 2012|1,559|http://www.gogonews.com/
+4585|P|Amazonas Tortuga|Amazonas Tortuga is a series of programming challenges based on artwork from the Amazonas region of Peru.|149|0.82|0.96|July 10, 2012|8,833|http://wiki.sugarlabs.org/go/Activities/Amazonas_Tortuga
+4587|P|I know India|Game about the geography of India|4|0.82|0.98|October 23, 2012|5,155|
+4588|P|Bulletin Board|Similar to Portfolio, the Bulletin Board Activity creates a slide show from Sugar Journal entries that have been 'starred'. But here the idea is to share Journal entries that are part of group projects.|2|0.82|0.96|July 16, 2012|1,275|http://wiki.sugarlabs.org/go/Activities/Bulletinboard
+4591|P|Graph Plotter|Complete function plotter to be used by students replacing the expensive calculators.|9|0.86|0.98|November 16, 2012|1,168|http://wiki.sugarlabs.org/go/Activities/Graph&#37;20Plotter
+4592|P|pygihack|pygihack|1|0.96|0.96|July 21, 2012|3,570|
+4593|P|SimpleGNUChess|Simple GNU Chess is a Sugar front end to the gnuchess program. It features varying levels of difficulty, undo, network play, PGN output, customization of graphics, et al.|6|0.82|0.98|September 25, 2012|9,977|http://wiki.sugarlabs.org/go/Activities/Gnuchess
+4594|P||||||||
+4595|P|JAMath|JAMath is a numbers game where the game tells you an addition, subtraction, multiplication or division and you have to click the results in the numbers that are falling down|2|0.82|0.98|August 22, 2012|4,218|
+4596|P||||||||
+4597|P|Convert|Convert|3|0.82|0.98|February  5, 2013|1,783|
+4598|P|JAMediaLector.|JAMediaLector. Lector de archivos de texto y pdf.|1|0.96|0.98|September  2, 2012|1,966|https://sites.google.com/site/sugaractivities/jamediaobjects/jamedialector
+4599|P|Jump|A Marble-Jumping Solitaire Game|2|0.82|0.98|September  4, 2012|7,317|
+4600|P|I know Sri Lanka|Game about the geography of Sri Lanka|1|0.82|0.98|September 19, 2012|3,302|
+4601|P|Image Thumbnail|Image thumbnail, permits to see thumbnails of saved images on USB keys and in all your XO!.|8|0.82|0.98|February 12, 2013|1,143|
+4602|E|Broadway|Users create a story by choosing a backdrop, creating actors, and then writing a script. Using animation and the native Text-to-Speech software, the story comes alive. Based on the classic computer game "Hollywood" by Theatrix.|3|0.82|0.98|October  8, 2012|50|http://wiki.laptop.org/go/Broadway
+4606|P|FiftyTwo|FiftyTwo is a set of card games|3|0.82|0.98|October 18, 2012|3,424|http://wiki.laptop.org/go/Games/FiftyTwo
+4607|P|Reversi|The classic Reversi game|2|0.82|0.98|October 19, 2012|2,199|
+4608|E|JClic|Sugarized JClic|1|0.82|0.98|October 30, 2012|64|http://wiki.sugarlabs.org/go/Activities/JClic
+4609|P|Biorhythm|Activity that calculates the biorhytm for a specify date.|1|0.82|0.98|October 30, 2012|2,514|http://wiki.sugarlabs.org/go/Activities/Biorhytm
+4611|P|TestMultiTouch|Simple test for multi-touch events.|5|0.98|0.98|November  6, 2012|52|
+4612|P|FoodChain|FoodChain is a pedagogical game to learn name of animals (word and pronunciation) and concept of food chains: who eats what? Who eats who?|3|0.96|0.98|December  2, 2012|5,311|
+4613|P|Annotate|Annotate|1|0.86|0.98|November 10, 2012|552|
+4614|P|Remember|Four images, which tinkle Will you remember the order?|1|0.98|0.98|November 10, 2012|1,251|
+4615|P|Adventure Book|Activity to create books which are in different alternatives.|3|0.82|0.98|December 14, 2012|445|http://ceibaljam.org/drupal/
+4619|E|Sugar Network|Sugar Network|0.7.1|0.82|0.98|December  1, 2012|34|http://wiki.sugarlabs.org/go/Activities/Sugar_Network
+4620|E|Cuadraditos|Cuadraditos is a QR code reader for Sugar.|2|0.82|0.96|November 30, 2012|17|http://cuadraditos.uy
+4621|P|Butia Firmware|This activity allows upgrade the firmware of the USB4butia board.|2|0.86|0.98|January 28, 2013|767|
+4622|P|Compress|Tool for compress and uncompress zip files ..|14|0.82|0.98|December  5, 2012|627|http://wiki.sugarlabs.org/go/Activities/Compress
+4623|P|Merry Christmas|Feliz Navidad|4|0.82|0.96|December 13, 2012|2,069|
+4624|P||||||||
+4625|P|I Know My ABCs|I Know My ABCs is an activity for learning the letters of the alphabet (Spanish only in the first version)|4|0.82|0.94|February  6, 2013|48|http://wiki.sugarlabs.org/go/Activities/IKnowMyABCs
+4626|P|AEIOU|AEIOU is learn-to-read activity that focuses on vowels in Spanish.|4|0.82|0.94|February  6, 2013|52|http://wiki.sugarlabs.org/go/Activities/AEIOU
+4627|P|Letter Match|Letter Match is an activity for learning letters: Match the letters to the picture; match the pictures to the letters.|6|0.82|0.94|February  6, 2013|54|http://wiki.sugarlabs.org/go/Activities/LetterMatch
+4628|P|Level Tool|Level Tool is an activity to check the inclination of a surface with respect to ground.|1|0.96|0.98|December 30, 2012|373|http://wiki.sugarlabs.org/go/Activities/Level_Tool
+4629|E|Yellow Dot|Yellow Dot is an interactive narrative that combines basic reading skills and some fun graphics.|2|0.96|0.98|January  6, 2013|13|http://wiki.sugarlabs.org/go/Activities/Yellowdot
+4630|P||||||||
+4631|P|WikipediaPT|Wikipedia PT|35|0.82|0.98|January 10, 2013|249|
+4632|P|WikipediaHI|WikipediaHI|35|0.82|0.98|January 11, 2013|142|
+4633|E||MathTest helps kids practice basic mathematical operations (addition, subtraction, multiplication, division).|1|0.82|0.98|January 13, 2013|3|
+4634|P|Oopsy|Oopsy|1|0.96|0.98|January 20, 2013|74|http://tinyurl.com/oopsyActivity
+4635|P|JAMFlash|JAMFlash|1|0.82|0.94|January 21, 2013|626|http:///people.sugarlabs.org/ignacio/jamflash.html
+4636|P||||||||
+4637|E|Piensa y Escribe|Piensa y Escribe: La actividad permite a niños con barreras de tipo cognitivo ejercitar tareas de escritura|1|0.82|0.98|February  2, 2013|11|http://git.sugarlabs.org/piensa-y-escribe/piensa-y-escribe
+4638|E|CalculArte|CalculArte|1|0.82|0.98|January 29, 2013|4|
+4639|E|ELEGIR|Elegir es una actividad que permite a chicos con barreras de tipo cognitivo ejercitar tareas de escritura|2|0.96|0.96|February  3, 2013|9|http://wiki.sugarlabs.org/go/Activities/ELEGIR
+4640|E|Expresar|Expresar es una actividad que permite a chicos con barreras de motricidad expresarse a través de un teclado conceptual, para ésto se provee un conjunto de opciones que son accedidas y seleccionadas mediante un barrido automatico de las mismas.|1|0.82|0.98|January 30, 2013|3|
+4641|E|Lanzar|Lanzar is a very simple darts game targeted for children with motor difficulties. The basic goal of this game is to help them improve their precision using any key press.|1|0.88|0.96|January 30, 2013|6|http://wiki.sugarlabs.org/go/Activities/Lanzar
+4642|E|Audio Pattern|Esta actividad tiene como objetivo permitir a chicos con barreras de percepción visual ejercitar la capacidad de identificar patrones.|1|0.82|0.98|January 30, 2013|5|
+4643|E||Actividad que permita a chicos con barreras de percepción visual ejercitar su memoria auditiva.|3|0.82|0.98|January 30, 2013|3|
+4644|E|Elephant|Elephant|1|0.82|0.98|January 30, 2013|11|
+4645|E|Chutar|Entrenar y Chutar|1|0.82|0.98|January 30, 2013|20|http://wiki.sugarlabs.org/go/Activities/entrenarychutar
+4646|E|WORDS|Actividad que permite a chicos con barreras de tipo cognitivo ejercitar tareas de lectura.|1|0.82|0.98|January 30, 2013|10|
+4647|P|Grid Paint|Grid Paint is a simple paint activity for kids to drawing pictures using a grid of triangles.|1|0.96|0.98|February  3, 2013|91|
+4648|E|CristianEdit|Actividad que sirve para editar textos|1|0.82|0.96|February  8, 2013|5|
+4649|P|Contacts|A simple activity for save contacts.|3|0.82|0.98|February 11, 2013|133|http://people.sugarlabs.org/ignacio/contactos.html

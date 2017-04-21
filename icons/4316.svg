@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
+    <!ENTITY stroke_color "#666666">
+    <!ENTITY fill_color "#FFFFFF">
+]>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.0"
+   width="55"
+   height="55"
+   id="svg4502"
+   style="display:inline"
+   inkscape:version="0.47pre4 r22446"
+   sodipodi:docname="conozco-numeros.svg">
+  <metadata
+     id="metadata2876">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1278"
+     inkscape:window-height="780"
+     id="namedview2874"
+     showgrid="false"
+     inkscape:zoom="4.2909091"
+     inkscape:cx="27.5"
+     inkscape:cy="27.5"
+     inkscape:window-x="0"
+     inkscape:window-y="18"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg4502" />
+  <defs
+     id="defs4504">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 27.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="55 : 27.5 : 1"
+       inkscape:persp3d-origin="27.5 : 18.333333 : 1"
+       id="perspective2878" />
+  </defs>
+  <g
+     id="terron"
+     transform="matrix(0.5,0,0,0.5,23.934584,23.639858)">
+    <path
+       id="cuerpo"
+       d="m 38.822128,44.108722 c 0,0 -0.376363,0 -0.729309,0 0,-1.361344 0.0042,-5.649084 0.0042,-6.783539 0,0 0,0 0,-0.0017 l 0,-12.760539 -0.0075,-7.751552 c -0.0033,-0.878581 -0.727637,-1.586579 -1.609164,-1.582439 -0.427382,0 -0.831345,0.16727 -1.132437,0.467859 -0.301927,0.302245 -0.465854,0.702202 -0.464182,1.127001 0,0.03975 0.0017,2.534719 0.0042,4.633873 l -12.816435,0 c -1.740473,0 -3.151419,1.396952 -3.151419,3.117679 l 0,1.724867 -5.654655,0.0033 c -0.887382,0.0058 -1.601636,0.72042 -1.59829,1.593205 0.0017,0.424799 0.170617,0.823099 0.474217,1.121205 0.305274,0.298933 0.709237,0.461234 1.135782,0.459578 0.04935,0 3.419892,-0.0017 5.642109,-0.0033 l 0,7.540395 c 0,0.01159 -0.0033,0.02153 -0.0033,0.03229 0,0.05797 0.0033,5.498377 0.0033,7.060942 -0.352109,0 -0.729309,0 -0.729309,0 -0.904108,0.01739 -1.605818,0.74195 -1.590763,1.616391 0.0184,0.876924 0.752727,1.572502 1.635091,1.555112 l 2.303345,-0.0017 c 0.9016,-0.01656 1.607491,-0.741949 1.589091,-1.616389 l -0.0033,-5.219318 12.764581,0 -0.0059,5.219318 c -0.01673,0.875268 0.689163,1.600657 1.590764,1.616389 l 2.301672,0.0017 c 0.886545,0.01739 1.619201,-0.678188 1.636764,-1.555112 0.01756,-0.874441 -0.687491,-1.598173 -1.589091,-1.615563 z M 30.604855,25.673428 c 0.592982,-0.08281 1.143309,0.326259 1.227782,0.914187 0.08531,0.587101 -0.329527,1.132798 -0.922509,1.217261 -0.596328,0.08281 -1.145818,-0.327914 -1.229455,-0.914187 -0.08531,-0.588757 0.329528,-1.134454 0.924182,-1.217261 z m -5.654654,0.794117 c 0.592145,-0.08281 1.143309,0.32626 1.226946,0.914189 0.08531,0.588756 -0.329528,1.131969 -0.921674,1.217261 -0.596327,0.08446 -1.145817,-0.32626 -1.229454,-0.914188 -0.08447,-0.588758 0.327855,-1.132798 0.924182,-1.217262 z m 1.434364,9.080603 c -1.020364,-0.72042 -2.6404,-2.733455 -2.058292,-4.100596 0.205746,-0.481109 0.658219,-0.182176 1.150837,0.0621 1.175927,0.594553 2.576,0.670735 3.831382,0.29562 0.638145,-0.190456 1.183454,-0.499326 1.703673,-0.911703 0.316144,-0.252562 1.179272,-1.257009 1.654326,-0.803228 0.371346,0.355242 0.43491,0.795775 0.43491,0.799915 0.532763,3.368583 -3.68251,6.798445 -6.716836,4.657887 z"
+       style="fill:&stroke_color;" />
+    <path
+       id="pelo_oscuro"
+       d="m 17.233073,11.642631 c 1.738801,-2.9454406 7.191892,-2.9669703 8.1788,0.590413 0.3312,1.195731 0.305274,3.767713 -1.020363,4.464947 -0.465855,0.245108 -0.627273,-0.269951 -0.851418,-0.768448 -0.536946,-1.193247 -1.570691,-2.129793 -2.784255,-2.622494 -0.6164,-0.251732 -1.236146,-0.356897 -1.901891,-0.36021 -0.407309,-0.0033 -1.716218,0.237656 -1.793163,-0.414034 -0.06022,-0.505122 0.17229,-0.888518 0.17229,-0.890174 z"
+       style="fill:&stroke_color;" />
+    <g
+       transform="matrix(0.8363636,0,0,0.8280687,4.3773279,7.643887)"
+       id="pelo_claro">
+      <path
+         d="M 30.514,13.666 C 25.959,9.955 27.36,0.759 33.675,0.043 c 2.124,-0.241 6.496,0.494 7.331,2.911 0.293,0.848 -0.624,0.982 -1.533,1.226 -2.174,0.585 -4.039,2.081 -5.2,3.992 -0.592,0.972 -0.931,1.989 -1.113,3.109 -0.113,0.683 -0.052,2.955 -1.178,2.913 -0.875,-0.032 -1.466,-0.526 -1.468,-0.528 z"
+         id="path2674"
+         style="fill:&fill_color;" />
+    </g>
+  </g>
+  <text
+     xml:space="preserve"
+     style="font-size:16px;font-style:normal;font-weight:normal;fill:&stroke_color;;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+     x="7.4576273"
+     y="20.508474"
+     id="text2880"><tspan
+       sodipodi:role="line"
+       id="tspan2882"
+       x="7.4576273"
+       y="20.508474">27</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:12px;font-style:normal;font-weight:normal;fill:&stroke_color;;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+     x="10.254237"
+     y="38.68644"
+     id="text2884"><tspan
+       sodipodi:role="line"
+       id="tspan2886"
+       x="10.254237"
+       y="38.68644">85</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:14px;font-style:normal;font-weight:normal;fill:&stroke_color;;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+     x="28.432203"
+     y="24.470337"
+     id="text2888"><tspan
+       sodipodi:role="line"
+       id="tspan2890"
+       x="28.432203"
+       y="24.470337">48</tspan></text>
+</svg>

@@ -1,0 +1,94 @@
+<?xml version="1.0" ?><!DOCTYPE svg  PUBLIC '-//W3C//DTD SVG 1.1//EN'  'http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd' [
+	<!ENTITY stroke_color "#00ff03">
+	<!ENTITY fill_color "#ff0000">
+]><!--Generator: Xara Xtreme (www.xara.com), SVG filter version: 1.0.0.13--><svg fill-rule="evenodd" height="41.25pt" overflow="visible" stroke-linejoin="bevel" stroke-width="0.501" version="1.1" viewBox="0 0 41.25 41.25" width="41.25pt" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <marker id="DefaultArrow2" markerHeight="1" markerUnits="strokeWidth" markerWidth="1" orient="auto" overflow="visible" viewBox="0 0 1 1">
+   <!-- REF_ARROW_STRAIGHT (-2) -->
+   <g transform="scale(0.0092592592)">
+    <!-- 1/108 -->
+    <path d="M -9 54 L -9 -54 L 117 0 z"/>
+   </g>
+  </marker>
+  <marker id="DefaultArrow3" markerHeight="1" markerUnits="strokeWidth" markerWidth="1" orient="auto" overflow="visible" viewBox="0 0 1 1">
+   <!-- REF_ARROW_ANGLED -->
+   <g transform="scale(0.0092592592)">
+    <path d="M -27 54 L -9 0 L -27 -54 L 135 0 z"/>
+   </g>
+  </marker>
+  <marker id="DefaultArrow4" markerHeight="1" markerUnits="strokeWidth" markerWidth="1" orient="auto" overflow="visible" viewBox="0 0 1 1">
+   <!-- REF_ARROW_ROUNDED -->
+   <g transform="scale(0.0092592592)">
+    <path d="M -9,0 L -9,-45 C -9,-51.708 2.808,-56.580 9,-54 L 117,-9 C 120.916,-7.369 126.000,-4.242 126,0 C 126,4.242 120.916,7.369 117,9 L 9,54 C 2.808,56.580 -9,51.708 -9,45 z"/>
+   </g>
+  </marker>
+  <marker id="DefaultArrow5" markerHeight="1" markerUnits="strokeWidth" markerWidth="1" orient="auto" overflow="visible" viewBox="0 0 1 1">
+   <!-- REF_ARROW_SPOT -->
+   <g transform="scale(0.0092592592)">
+    <path d="M -54, 0 C -54,29.807 -29.807,54 0,54 C 29.807,54 54,29.807 54,0 C 54,-29.807 29.807,-54 0,-54 C -29.807,-54 -54,-29.807 -54,0 z"/>
+   </g>
+  </marker>
+  <marker id="DefaultArrow6" markerHeight="1" markerUnits="strokeWidth" markerWidth="1" orient="auto" overflow="visible" viewBox="0 0 1 1">
+   <!-- REF_ARROW_DIAMOND -->
+   <g transform="scale(0.0092592592)">
+    <path d="M -63,0 L 0,63 L 63,0 L 0,-63 z"/>
+   </g>
+  </marker>
+  <marker id="DefaultArrow7" markerHeight="1" markerUnits="strokeWidth" markerWidth="1" orient="auto" overflow="visible" viewBox="0 0 1 1">
+   <!-- REF_ARROW_FEATHER -->
+   <g transform="scale(0.0092592592)">
+    <path d="M 18,-54 L 108,-54 L 63,0 L 108,54 L 18, 54 L -36,0 z"/>
+   </g>
+  </marker>
+  <marker id="DefaultArrow8" markerHeight="1" markerUnits="strokeWidth" markerWidth="1" orient="auto" overflow="visible" viewBox="0 0 1 1">
+   <!-- REF_ARROW_FEATHER2 -->
+   <g transform="scale(0.0092592592)">
+    <path d="M -36,0 L 18,-54 L 54,-54 L 18,-18 L 27,-18 L 63,-54 L 99,-54 L 63,-18 L 72,-18 L 108,-54 L 144,-54 L 90,0 L 144,54 L 108,54 L 72,18 L 63,18 L 99,54 L 63,54 L 27,18 L 18,18 L 54,54 L 18,54 z"/>
+   </g>
+  </marker>
+  <marker id="DefaultArrow9" markerHeight="1" markerUnits="strokeWidth" markerWidth="1" orient="auto" overflow="visible" viewBox="0 0 1 1">
+   <!-- REF_ARROW_HOLLOWDIAMOND -->
+   <g transform="scale(0.0092592592)">
+    <path d="M 0,45 L -45,0 L 0, -45 L 45, 0 z M 0, 63 L-63, 0 L 0, -63 L 63, 0 z"/>
+   </g>
+  </marker>
+  <filter id="StainedFilter">
+   <feBlend in="SourceGraphic" in2="BackgroundImage" mode="multiply" result="blend"/>
+   <feComposite in="blend" in2="SourceAlpha" operator="in" result="comp"/>
+  </filter>
+  <filter id="BleachFilter">
+   <feBlend in="SourceGraphic" in2="BackgroundImage" mode="screen" result="blend"/>
+   <feComposite in="blend" in2="SourceAlpha" operator="in" result="comp"/>
+  </filter>
+  <filter id="InvertTransparencyBitmapFilter">
+   <feComponentTransfer>
+    <feFuncR amplitude="1.055" exponent=".416666666" offset="-0.055" type="gamma"/>
+    <feFuncG amplitude="1.055" exponent=".416666666" offset="-0.055" type="gamma"/>
+    <feFuncB amplitude="1.055" exponent=".416666666" offset="-0.055" type="gamma"/>
+   </feComponentTransfer>
+   <feComponentTransfer>
+    <feFuncR intercept="1" slope="-1" type="linear"/>
+    <feFuncG intercept="1" slope="-1" type="linear"/>
+    <feFuncB intercept="1" slope="-1" type="linear"/>
+    <feFuncA intercept="0" slope="1" type="linear"/>
+   </feComponentTransfer>
+   <feComponentTransfer>
+    <feFuncR amplitude="1" exponent="2.4" offset="0" type="gamma"/>
+    <feFuncG amplitude="1" exponent="2.4" offset="0" type="gamma"/>
+    <feFuncB amplitude="1" exponent="2.4" offset="0" type="gamma"/>
+   </feComponentTransfer>
+  </filter>
+ </defs>
+ <g fill="none" font-family="Times New Roman" font-size="16" id="Document" stroke="black" transform="scale(1 -1)">
+  <g id="Spread" transform="translate(0 -41.25)">
+   <g id="Layer 1">
+    <g fill="&fill_color;" id="Group" stroke-linejoin="miter" stroke-miterlimit="79.8403193612775" stroke-width="0.72">
+     <path d="M 36.666,21.028 L 32.671,25.35 L 34.715,25.355 C 34.694,26.64 34.461,27.947 33.999,29.224 C 32.263,34.007 27.786,36.947 23.057,36.876 L 23.057,40.821 C 29.355,40.89 35.309,36.965 37.623,30.594 C 38.25,28.866 38.559,27.103 38.582,25.36 L 40.565,25.363 L 36.666,21.028 Z" marker-end="none" marker-start="none"/>
+     <path d="M 4.668,21.027 L 8.662,25.349 L 6.62,25.352 C 6.641,26.638 6.87,27.944 7.334,29.221 C 9.071,34.005 13.547,36.945 18.279,36.875 L 18.279,40.819 C 11.979,40.889 6.023,36.963 3.711,30.591 C 3.084,28.865 2.776,27.1 2.753,25.357 L 0.768,25.362 L 4.668,21.027 Z" marker-end="none" marker-start="none"/>
+     <path d="M 12.876,0.621 L 4.825,4.384 L 13.14,7.92 L 13.077,6.174 L 27.985,6.174 L 27.923,7.92 L 36.237,4.384 L 28.186,0.621 L 28.121,2.437 L 12.942,2.437 L 12.876,0.621 Z" marker-end="none" marker-start="none"/>
+     <path d="M 14.472,10.279 L 18.064,13.734 L 18.066,11.966 C 19.136,11.985 20.222,12.185 21.281,12.586 C 26.323,14.49 28.9,20.213 27.033,25.358 C 25.578,29.366 21.855,31.845 17.898,31.848 L 17.898,35.192 C 23.185,35.189 28.161,31.874 30.106,26.519 C 32.6,19.644 29.158,11.996 22.418,9.451 C 20.984,8.91 19.518,8.642 18.072,8.622 L 18.074,6.904 L 14.472,10.279 Z" marker-end="none" marker-start="none"/>
+    </g>
+   </g>
+  </g>
+ </g>
+</svg>

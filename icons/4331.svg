@@ -1,0 +1,544 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
+    <!ENTITY ns_svg "http://www.w3.org/2000/svg">
+    <!ENTITY ns_xlink " http://www.w3.org/1999/xlink">
+    <!ENTITY stroke_color "#FF0000">
+    <!ENTITY fill_color "#00FF00">
+]>
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.1"
+   width="41.250999pt"
+   height="41.249001pt"
+   viewBox="0 0 41.251 41.249"
+   id="svg2"
+   style="fill-rule:evenodd;stroke-width:0.50099999;stroke-linejoin:bevel;overflow:visible">
+  <metadata
+     id="metadata156">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs4">
+    <marker
+       markerUnits="strokeWidth"
+       markerWidth="1"
+       markerHeight="1"
+       orient="auto"
+       viewBox="0 0 1 1"
+       id="DefaultArrow2"
+       style="overflow:visible">
+      <g
+         transform="scale(0.00925926,0.00925926)"
+         id="g7">
+        <path
+           d="M -9,54 -9,-54 117,0 z"
+           id="path9" />
+      </g>
+    </marker>
+    <marker
+       markerUnits="strokeWidth"
+       markerWidth="1"
+       markerHeight="1"
+       orient="auto"
+       viewBox="0 0 1 1"
+       id="DefaultArrow3"
+       style="overflow:visible">
+      <g
+         transform="scale(0.00925926,0.00925926)"
+         id="g12">
+        <path
+           d="M -27,54 -9,0 -27,-54 135,0 z"
+           id="path14" />
+      </g>
+    </marker>
+    <marker
+       markerUnits="strokeWidth"
+       markerWidth="1"
+       markerHeight="1"
+       orient="auto"
+       viewBox="0 0 1 1"
+       id="DefaultArrow4"
+       style="overflow:visible">
+      <g
+         transform="scale(0.00925926,0.00925926)"
+         id="g17">
+        <path
+           d="m -9,0 0,-45 c 0,-6.708 11.808,-11.58 18,-9 l 108,45 c 3.916,1.631 9,4.758 9,9 0,4.242 -5.084,7.369 -9,9 L 9,54 C 2.808,56.58 -9,51.708 -9,45 z"
+           id="path19" />
+      </g>
+    </marker>
+    <marker
+       markerUnits="strokeWidth"
+       markerWidth="1"
+       markerHeight="1"
+       orient="auto"
+       viewBox="0 0 1 1"
+       id="DefaultArrow5"
+       style="overflow:visible">
+      <g
+         transform="scale(0.00925926,0.00925926)"
+         id="g22">
+        <path
+           d="M -54,0 C -54,29.807 -29.807,54 0,54 29.807,54 54,29.807 54,0 54,-29.807 29.807,-54 0,-54 -29.807,-54 -54,-29.807 -54,0 z"
+           id="path24" />
+      </g>
+    </marker>
+    <marker
+       markerUnits="strokeWidth"
+       markerWidth="1"
+       markerHeight="1"
+       orient="auto"
+       viewBox="0 0 1 1"
+       id="DefaultArrow6"
+       style="overflow:visible">
+      <g
+         transform="scale(0.00925926,0.00925926)"
+         id="g27">
+        <path
+           d="M -63,0 0,63 63,0 0,-63 z"
+           id="path29" />
+      </g>
+    </marker>
+    <marker
+       markerUnits="strokeWidth"
+       markerWidth="1"
+       markerHeight="1"
+       orient="auto"
+       viewBox="0 0 1 1"
+       id="DefaultArrow7"
+       style="overflow:visible">
+      <g
+         transform="scale(0.00925926,0.00925926)"
+         id="g32">
+        <path
+           d="m 18,-54 90,0 L 63,0 108,54 18,54 -36,0 z"
+           id="path34" />
+      </g>
+    </marker>
+    <marker
+       markerUnits="strokeWidth"
+       markerWidth="1"
+       markerHeight="1"
+       orient="auto"
+       viewBox="0 0 1 1"
+       id="DefaultArrow8"
+       style="overflow:visible">
+      <g
+         transform="scale(0.00925926,0.00925926)"
+         id="g37">
+        <path
+           d="m -36,0 54,-54 36,0 -36,36 9,0 36,-36 36,0 -36,36 9,0 36,-36 36,0 -54,54 54,54 -36,0 -36,-36 -9,0 36,36 -36,0 -36,-36 -9,0 36,36 -36,0 z"
+           id="path39" />
+      </g>
+    </marker>
+    <marker
+       markerUnits="strokeWidth"
+       markerWidth="1"
+       markerHeight="1"
+       orient="auto"
+       viewBox="0 0 1 1"
+       id="DefaultArrow9"
+       style="overflow:visible">
+      <g
+         transform="scale(0.00925926,0.00925926)"
+         id="g42">
+        <path
+           d="M 0,45 -45,0 0,-45 45,0 z M 0,63 -63,0 0,-63 63,0 z"
+           id="path44" />
+      </g>
+    </marker>
+    <filter
+       color-interpolation-filters="sRGB"
+       id="StainedFilter">
+      <feBlend
+         in2="BackgroundImage"
+         mode="multiply"
+         in="SourceGraphic"
+         result="blend"
+         id="feBlend47" />
+      <feComposite
+         in2="SourceAlpha"
+         operator="in"
+         in="blend"
+         result="comp"
+         id="feComposite49" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       id="BleachFilter">
+      <feBlend
+         in2="BackgroundImage"
+         mode="screen"
+         in="SourceGraphic"
+         result="blend"
+         id="feBlend52" />
+      <feComposite
+         in2="SourceAlpha"
+         operator="in"
+         in="blend"
+         result="comp"
+         id="feComposite54" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       id="InvertTransparencyBitmapFilter">
+      <feComponentTransfer
+         id="feComponentTransfer57">
+        <feFuncR
+           id="feFuncR59"
+           offset="-0.055"
+           exponent=".416666666"
+           amplitude="1.055"
+           type="gamma" />
+        <feFuncG
+           id="feFuncG61"
+           offset="-0.055"
+           exponent=".416666666"
+           amplitude="1.055"
+           type="gamma" />
+        <feFuncB
+           id="feFuncB63"
+           offset="-0.055"
+           exponent=".416666666"
+           amplitude="1.055"
+           type="gamma" />
+      </feComponentTransfer>
+      <feComponentTransfer
+         id="feComponentTransfer65">
+        <feFuncR
+           id="feFuncR67"
+           intercept="1"
+           slope="-1"
+           type="linear" />
+        <feFuncG
+           id="feFuncG69"
+           intercept="1"
+           slope="-1"
+           type="linear" />
+        <feFuncB
+           id="feFuncB71"
+           intercept="1"
+           slope="-1"
+           type="linear" />
+        <feFuncA
+           id="feFuncA73"
+           intercept="0"
+           slope="1"
+           type="linear" />
+      </feComponentTransfer>
+      <feComponentTransfer
+         id="feComponentTransfer75">
+        <feFuncR
+           id="feFuncR77"
+           offset="0"
+           exponent="2.4"
+           amplitude="1"
+           type="gamma" />
+        <feFuncG
+           id="feFuncG79"
+           offset="0"
+           exponent="2.4"
+           amplitude="1"
+           type="gamma" />
+        <feFuncB
+           id="feFuncB81"
+           offset="0"
+           exponent="2.4"
+           amplitude="1"
+           type="gamma" />
+      </feComponentTransfer>
+    </filter>
+  </defs>
+  <g
+     transform="scale(1,-1)"
+     id="Document"
+     style="font-size:16px;fill:none;stroke:#000000;font-family:Times New Roman">
+    <g
+       transform="translate(0,-41.249)"
+       id="Spread">
+      <g
+         id="Layer 1">
+        <rect
+           width="41.250999"
+           height="41.249001"
+           x="0.001"
+           y="0.001"
+           id="rect86"
+           style="fill:&fill_color;;stroke:none" />
+        <rect
+           width="2.9990001"
+           height="20.999001"
+           x="13.499"
+           y="15.001"
+           id="rect88"
+           style="fill:&stroke_color;;stroke:none" />
+        <rect
+           width="3"
+           height="35.997002"
+           x="29.993"
+           y="0.0040000002"
+           id="rect90"
+           style="fill:&stroke_color;;stroke:none" />
+        <rect
+           width="19.499001"
+           height="2.9979999"
+           x="13.5"
+           y="32.998001"
+           id="rect92"
+           style="fill:&stroke_color;;stroke:none" />
+        <rect
+           width="26.997999"
+           height="2.9979999"
+           x="14.246"
+           y="14.997"
+           id="rect94"
+           style="fill:&stroke_color;;stroke:none" />
+        <rect
+           width="10.264"
+           height="7.1090002"
+           x="-5.132"
+           y="-3.5539999"
+           transform="matrix(1.3788101e-4,0.99999999,-0.99999999,1.3788101e-4,15,16.302)"
+           id="rect96"
+           style="fill:#000000;stroke:none" />
+        <rect
+           width="7.105"
+           height="1.581"
+           x="-3.552"
+           y="-0.79000002"
+           transform="matrix(0,1,-1,0,10.657,17.091)"
+           id="rect98"
+           style="fill:#000000;stroke:none" />
+        <rect
+           width="7.105"
+           height="1.581"
+           x="-3.552"
+           y="-0.79000002"
+           transform="matrix(0,1,-1,0,19.342,17.091)"
+           id="rect100"
+           style="fill:#000000;stroke:none" />
+        <rect
+           width="5.526"
+           height="2.3699999"
+           x="-2.763"
+           y="-1.1849999"
+           transform="matrix(0,1,-1,0,15,24.197)"
+           id="rect102"
+           style="fill:#000000;stroke:none" />
+        <rect
+           width="0.78899997"
+           height="3.9489999"
+           x="-0.39399999"
+           y="-1.974"
+           transform="matrix(0,1,-1,0,15,10.775)"
+           id="rect104"
+           style="fill:#000000;stroke:none" />
+        <rect
+           width="0.78899997"
+           height="0.79000002"
+           x="-0.39399999"
+           y="-0.39500001"
+           transform="matrix(0,1,-1,0,15,9.986)"
+           id="rect106"
+           style="fill:#000000;stroke:none" />
+        <rect
+           width="3.1570001"
+           height="0.79000002"
+           x="-1.5779999"
+           y="-0.39500001"
+           transform="matrix(0,1,-1,0,11.052,11.959)"
+           id="rect108"
+           style="fill:#000000;stroke:none" />
+        <rect
+           width="3.1570001"
+           height="0.79000002"
+           x="-1.5779999"
+           y="-0.39500001"
+           transform="matrix(0,1,-1,0,10.263,11.17)"
+           id="rect110"
+           style="fill:#000000;stroke:none" />
+        <rect
+           width="2.3670001"
+           height="0.79000002"
+           x="-1.183"
+           y="-0.39500001"
+           transform="matrix(0,1,-1,0,9.473,10.775)"
+           id="rect112"
+           style="fill:#000000;stroke:none" />
+        <rect
+           width="1.5779999"
+           height="0.79000002"
+           x="-0.78899997"
+           y="-0.39500001"
+           transform="matrix(0,1,-1,0,8.684,10.38)"
+           id="rect114"
+           style="fill:#000000;stroke:none" />
+        <rect
+           width="3.1570001"
+           height="0.79000002"
+           x="-1.5779999"
+           y="-0.39500001"
+           transform="matrix(0,1,-1,0,18.947,11.959)"
+           id="rect116"
+           style="fill:#000000;stroke:none" />
+        <rect
+           width="3.1570001"
+           height="0.79000002"
+           x="-1.5779999"
+           y="-0.39500001"
+           transform="matrix(0,1,-1,0,19.737,11.17)"
+           id="rect118"
+           style="fill:#000000;stroke:none" />
+        <rect
+           width="2.3670001"
+           height="0.79000002"
+           x="-1.183"
+           y="-0.39500001"
+           transform="matrix(0,1,-1,0,20.526,10.775)"
+           id="rect120"
+           style="fill:#000000;stroke:none" />
+        <rect
+           width="1.5779999"
+           height="0.79000002"
+           x="-0.78899997"
+           y="-0.39500001"
+           transform="matrix(0,1,-1,0,21.316,10.38)"
+           id="rect122"
+           style="fill:#000000;stroke:none" />
+        <rect
+           width="3.1570001"
+           height="0.79000002"
+           x="-1.5779999"
+           y="-0.39500001"
+           transform="matrix(0,1,-1,0,9.473,16.697)"
+           id="rect124"
+           style="fill:#000000;stroke:none" />
+        <rect
+           width="3.1570001"
+           height="0.79000002"
+           x="-1.5779999"
+           y="-0.39500001"
+           transform="matrix(0,1,-1,0,20.526,16.697)"
+           id="rect126"
+           style="fill:#000000;stroke:none" />
+        <rect
+           width="1.5779999"
+           height="0.79000002"
+           x="-0.78899997"
+           y="-0.39500001"
+           transform="matrix(0,1,-1,0,7.896,21.435)"
+           id="rect128"
+           style="fill:#000000;stroke:none" />
+        <rect
+           width="2.3670001"
+           height="0.78899997"
+           x="-1.183"
+           y="-0.39399999"
+           transform="matrix(0,1,-1,0,8.684,21.039)"
+           id="rect130"
+           style="fill:#000000;stroke:none" />
+        <rect
+           width="3.1570001"
+           height="0.78899997"
+           x="-1.5779999"
+           y="-0.39399999"
+           transform="matrix(0,1,-1,0,9.473,20.644)"
+           id="rect132"
+           style="fill:#000000;stroke:none" />
+        <rect
+           width="0.78899997"
+           height="0.78899997"
+           x="-0.39399999"
+           y="-0.39399999"
+           transform="matrix(0,1,-1,0,10.263,21.039)"
+           id="rect134"
+           style="fill:#000000;stroke:none" />
+        <rect
+           width="2.3670001"
+           height="0.79000002"
+           x="-1.183"
+           y="-0.39500001"
+           transform="matrix(0,1,-1,0,13.421,24.987)"
+           id="rect136"
+           style="fill:#000000;stroke:none" />
+        <rect
+           width="2.3670001"
+           height="0.79000002"
+           x="-1.183"
+           y="-0.39500001"
+           transform="matrix(0,1,-1,0,16.579,24.987)"
+           id="rect138"
+           style="fill:#000000;stroke:none" />
+        <rect
+           width="0.78899997"
+           height="0.79000002"
+           x="-0.39399999"
+           y="-0.39500001"
+           transform="matrix(0,1,-1,0,16.579,21.828)"
+           id="rect140"
+           style="fill:#000000;stroke:none" />
+        <rect
+           width="0.78899997"
+           height="0.79000002"
+           x="-0.39399999"
+           y="-0.39500001"
+           transform="matrix(0,1,-1,0,13.421,21.828)"
+           id="rect142"
+           style="fill:#000000;stroke:none" />
+        <rect
+           width="0.78899997"
+           height="0.79000002"
+           x="-0.39399999"
+           y="-0.39500001"
+           transform="matrix(0,1,-1,0,15,27.355)"
+           id="rect144"
+           style="fill:#000000;stroke:none" />
+        <rect
+           width="0.78899997"
+           height="0.79000002"
+           x="-0.39399999"
+           y="-0.39500001"
+           transform="matrix(0,1,-1,0,19.737,21.039)"
+           id="rect146"
+           style="fill:#000000;stroke:none" />
+        <rect
+           width="3.1570001"
+           height="0.79000002"
+           x="-1.5779999"
+           y="-0.39500001"
+           transform="matrix(0,1,-1,0,20.529,20.644)"
+           id="rect148"
+           style="fill:#000000;stroke:none" />
+        <rect
+           width="2.3670001"
+           height="0.78899997"
+           x="-1.183"
+           y="-0.39399999"
+           transform="matrix(0,1,-1,0,21.316,21.039)"
+           id="rect150"
+           style="fill:#000000;stroke:none" />
+        <rect
+           width="1.5779999"
+           height="0.78899997"
+           x="-0.78899997"
+           y="-0.39399999"
+           transform="matrix(0,1,-1,0,22.105,21.434)"
+           id="rect152"
+           style="fill:#000000;stroke:none" />
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,141 @@
+<?xml version="1.0" ?><!DOCTYPE svg  PUBLIC '-//W3C//DTD SVG 1.1//EN'  'http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd' [
+	<!ENTITY stroke_color "#00ff03">
+	<!ENTITY fill_color "#ff0000">
+]><!--Generator: Xara Xtreme (www.xara.com), SVG filter version: 1.0.0.13--><svg fill-rule="evenodd" height="41.25pt" overflow="visible" stroke-linejoin="bevel" stroke-width="0.501" version="1.1" viewBox="0 0 41.25 41.25" width="41.25pt" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <marker id="DefaultArrow2" markerHeight="1" markerUnits="strokeWidth" markerWidth="1" orient="auto" overflow="visible" viewBox="0 0 1 1">
+   <!-- REF_ARROW_STRAIGHT (-2) -->
+   <g transform="scale(0.0092592592)">
+    <!-- 1/108 -->
+    <path d="M -9 54 L -9 -54 L 117 0 z"/>
+   </g>
+  </marker>
+  <marker id="DefaultArrow3" markerHeight="1" markerUnits="strokeWidth" markerWidth="1" orient="auto" overflow="visible" viewBox="0 0 1 1">
+   <!-- REF_ARROW_ANGLED -->
+   <g transform="scale(0.0092592592)">
+    <path d="M -27 54 L -9 0 L -27 -54 L 135 0 z"/>
+   </g>
+  </marker>
+  <marker id="DefaultArrow4" markerHeight="1" markerUnits="strokeWidth" markerWidth="1" orient="auto" overflow="visible" viewBox="0 0 1 1">
+   <!-- REF_ARROW_ROUNDED -->
+   <g transform="scale(0.0092592592)">
+    <path d="M -9,0 L -9,-45 C -9,-51.708 2.808,-56.580 9,-54 L 117,-9 C 120.916,-7.369 126.000,-4.242 126,0 C 126,4.242 120.916,7.369 117,9 L 9,54 C 2.808,56.580 -9,51.708 -9,45 z"/>
+   </g>
+  </marker>
+  <marker id="DefaultArrow5" markerHeight="1" markerUnits="strokeWidth" markerWidth="1" orient="auto" overflow="visible" viewBox="0 0 1 1">
+   <!-- REF_ARROW_SPOT -->
+   <g transform="scale(0.0092592592)">
+    <path d="M -54, 0 C -54,29.807 -29.807,54 0,54 C 29.807,54 54,29.807 54,0 C 54,-29.807 29.807,-54 0,-54 C -29.807,-54 -54,-29.807 -54,0 z"/>
+   </g>
+  </marker>
+  <marker id="DefaultArrow6" markerHeight="1" markerUnits="strokeWidth" markerWidth="1" orient="auto" overflow="visible" viewBox="0 0 1 1">
+   <!-- REF_ARROW_DIAMOND -->
+   <g transform="scale(0.0092592592)">
+    <path d="M -63,0 L 0,63 L 63,0 L 0,-63 z"/>
+   </g>
+  </marker>
+  <marker id="DefaultArrow7" markerHeight="1" markerUnits="strokeWidth" markerWidth="1" orient="auto" overflow="visible" viewBox="0 0 1 1">
+   <!-- REF_ARROW_FEATHER -->
+   <g transform="scale(0.0092592592)">
+    <path d="M 18,-54 L 108,-54 L 63,0 L 108,54 L 18, 54 L -36,0 z"/>
+   </g>
+  </marker>
+  <marker id="DefaultArrow8" markerHeight="1" markerUnits="strokeWidth" markerWidth="1" orient="auto" overflow="visible" viewBox="0 0 1 1">
+   <!-- REF_ARROW_FEATHER2 -->
+   <g transform="scale(0.0092592592)">
+    <path d="M -36,0 L 18,-54 L 54,-54 L 18,-18 L 27,-18 L 63,-54 L 99,-54 L 63,-18 L 72,-18 L 108,-54 L 144,-54 L 90,0 L 144,54 L 108,54 L 72,18 L 63,18 L 99,54 L 63,54 L 27,18 L 18,18 L 54,54 L 18,54 z"/>
+   </g>
+  </marker>
+  <marker id="DefaultArrow9" markerHeight="1" markerUnits="strokeWidth" markerWidth="1" orient="auto" overflow="visible" viewBox="0 0 1 1">
+   <!-- REF_ARROW_HOLLOWDIAMOND -->
+   <g transform="scale(0.0092592592)">
+    <path d="M 0,45 L -45,0 L 0, -45 L 45, 0 z M 0, 63 L-63, 0 L 0, -63 L 63, 0 z"/>
+   </g>
+  </marker>
+  <filter id="StainedFilter">
+   <feBlend in="SourceGraphic" in2="BackgroundImage" mode="multiply" result="blend"/>
+   <feComposite in="blend" in2="SourceAlpha" operator="in" result="comp"/>
+  </filter>
+  <filter id="BleachFilter">
+   <feBlend in="SourceGraphic" in2="BackgroundImage" mode="screen" result="blend"/>
+   <feComposite in="blend" in2="SourceAlpha" operator="in" result="comp"/>
+  </filter>
+  <filter id="InvertTransparencyBitmapFilter">
+   <feComponentTransfer>
+    <feFuncR amplitude="1.055" exponent=".416666666" offset="-0.055" type="gamma"/>
+    <feFuncG amplitude="1.055" exponent=".416666666" offset="-0.055" type="gamma"/>
+    <feFuncB amplitude="1.055" exponent=".416666666" offset="-0.055" type="gamma"/>
+   </feComponentTransfer>
+   <feComponentTransfer>
+    <feFuncR intercept="1" slope="-1" type="linear"/>
+    <feFuncG intercept="1" slope="-1" type="linear"/>
+    <feFuncB intercept="1" slope="-1" type="linear"/>
+    <feFuncA intercept="0" slope="1" type="linear"/>
+   </feComponentTransfer>
+   <feComponentTransfer>
+    <feFuncR amplitude="1" exponent="2.4" offset="0" type="gamma"/>
+    <feFuncG amplitude="1" exponent="2.4" offset="0" type="gamma"/>
+    <feFuncB amplitude="1" exponent="2.4" offset="0" type="gamma"/>
+   </feComponentTransfer>
+  </filter>
+ </defs>
+ <g fill="none" font-family="Times New Roman" font-size="16" id="Document" stroke="black" transform="scale(1 -1)">
+  <g id="Spread" transform="translate(0 -41.25)">
+   <g id="Layer 2">
+    <path d="M 30.658,3.206 L 40.745,20.678 L 30.659,38.15 L 10.484,38.15 L 0.396,20.679 L 10.483,3.206 L 30.658,3.206 Z" marker-end="none" marker-start="none" stroke="#000000" stroke-linejoin="miter" stroke-miterlimit="79.8403193612775" stroke-width="0.779"/>
+    <path d="M 38.042,10.59 L 38.042,30.765 L 20.571,40.854 L 3.099,30.766 L 3.098,10.591 L 20.57,0.503 L 38.042,10.59 Z" marker-end="none" marker-start="none" stroke="#000000" stroke-linejoin="miter" stroke-miterlimit="79.8403193612775" stroke-width="0.779"/>
+    <path d="M 20.668,40.852 L 20.668,0.6" fill="none" stroke="#000000" stroke-miterlimit="79.8403193612775" stroke-width="0.779"/>
+    <path d="M 0.493,20.775 L 40.648,20.775" fill="none" stroke="#000000" stroke-miterlimit="79.8403193612775" stroke-width="0.779"/>
+    <path d="M 10.434,38.416 L 30.707,3.232" fill="none" stroke="#000000" stroke-miterlimit="79.8403193612775" stroke-width="0.779"/>
+    <path d="M 3.32,30.814 L 38.017,10.542" fill="none" stroke="#000000" stroke-miterlimit="79.8403193612775" stroke-width="0.779"/>
+    <path d="M 30.804,38.026 L 10.63,3.134" fill="none" stroke="#000000" stroke-miterlimit="79.8403193612775" stroke-width="0.779"/>
+    <path d="M 3.125,10.346 L 37.919,30.716" fill="none" fill-opacity="0.000000" stroke="#000000" stroke-miterlimit="79.8403193612775" stroke-opacity="0.000000" stroke-width="0.779"/>
+    <path d="M 38.114,30.912 L 3.125,10.542" fill="none" stroke="#000000" stroke-miterlimit="79.8403193612775" stroke-width="0.779"/>
+    <path d="M 7.608,33.347 L 5.659,29.644 L 20.376,20.97 L 11.994,35.687 L 7.608,33.347 Z" fill="&fill_color;" marker-end="none" marker-start="none" stroke="none" stroke-miterlimit="79.8403193612775" stroke-width="0.779"/>
+    <path d="M 7.612,33.346 L 5.662,29.643 L 20.378,20.969 L 11.997,35.686 L 7.612,33.346 Z" fill="&fill_color;" marker-end="none" marker-start="none" stroke="none" stroke-miterlimit="79.8403193612775" stroke-width="0.779"/>
+    <path d="M 3.012,25.056 L 3.176,20.874 L 20.257,20.719 L 5.64,29.274 L 3.012,25.056 Z" fill="&stroke_color;" marker-end="none" marker-start="none" stroke="none" stroke-miterlimit="79.8403193612775" stroke-width="0.779"/>
+    <path d="M 2.999,15.535 L 5.231,11.995 L 20.101,20.402 L 3.165,20.502 L 2.999,15.535 Z" fill="&fill_color;" marker-end="none" marker-start="none" stroke="none" stroke-miterlimit="79.8403193612775" stroke-width="0.779"/>
+    <path d="M 7.879,7.406 L 11.582,5.457 L 20.256,20.172 L 5.54,11.791 L 7.879,7.406 Z" fill="&stroke_color;" marker-end="none" marker-start="none" stroke="none" stroke-miterlimit="79.8403193612775" stroke-width="0.779"/>
+    <path d="M 16.211,2.944 L 20.393,3.107 L 20.547,20.189 L 11.993,5.572 L 16.211,2.944 Z" fill="&fill_color;" marker-end="none" marker-start="none" stroke="none" stroke-miterlimit="79.8403193612775" stroke-width="0.779"/>
+    <path d="M 25.69,3.106 L 29.23,5.338 L 20.823,20.209 L 20.723,3.273 L 25.69,3.106 Z" fill="&stroke_color;" marker-end="none" marker-start="none" stroke="none" stroke-miterlimit="79.8403193612775" stroke-width="0.779"/>
+    <path d="M 33.943,7.855 L 35.892,11.558 L 21.176,20.233 L 29.558,5.515 L 33.943,7.855 Z" fill="&fill_color;" marker-end="none" marker-start="none" stroke="none" stroke-miterlimit="79.8403193612775" stroke-width="0.779"/>
+    <path d="M 38.542,16.145 L 38.379,20.327 L 21.297,20.481 L 35.914,11.927 L 38.542,16.145 Z" fill="&stroke_color;" marker-end="none" marker-start="none" stroke="none" stroke-miterlimit="79.8403193612775" stroke-width="0.779"/>
+    <path d="M 38.319,25.593 L 36.087,29.132 L 21.216,20.726 L 38.151,20.625 L 38.319,25.593 Z" fill="&fill_color;" marker-end="none" marker-start="none" stroke="none" stroke-miterlimit="79.8403193612775" stroke-width="0.779"/>
+    <path d="M 33.439,33.721 L 29.736,35.67 L 21.061,20.954 L 35.778,29.336 L 33.439,33.721 Z" fill="&stroke_color;" marker-end="none" marker-start="none" stroke="none" stroke-miterlimit="79.8403193612775" stroke-width="0.779"/>
+    <path d="M 25.2,38.494 L 21.017,38.329 L 20.864,21.248 L 29.418,35.865 L 25.2,38.494 Z" fill="&fill_color;" marker-end="none" marker-start="none" stroke="none" stroke-miterlimit="79.8403193612775" stroke-width="0.779"/>
+    <path d="M 15.721,38.331 L 12.18,36.098 L 20.588,21.229 L 20.687,38.164 L 15.721,38.331 Z" fill="&stroke_color;" marker-end="none" marker-start="none" stroke="none" stroke-miterlimit="79.8403193612775" stroke-width="0.779"/>
+    <g fill="#000000" id="Group" stroke="none" stroke-linejoin="miter" stroke-miterlimit="79.8403193612775" stroke-width="0.789">
+     <rect height="7.109" transform="translate(20.625 20.024) rotate(89.9921)" width="10.264" x="-5.132" y="-3.554"/>
+     <rect height="1.581" transform="translate(16.282 20.813) rotate(90)" width="7.105" x="-3.552" y="-0.79"/>
+     <rect height="1.581" transform="translate(24.967 20.813) rotate(90)" width="7.105" x="-3.552" y="-0.79"/>
+     <rect height="2.37" transform="translate(20.625 27.919) rotate(90)" width="5.526" x="-2.763" y="-1.185"/>
+     <rect height="3.949" transform="translate(20.625 14.497) rotate(90)" width="0.789" x="-0.394" y="-1.974"/>
+     <rect height="0.79" transform="translate(20.625 13.708) rotate(90)" width="0.789" x="-0.394" y="-0.395"/>
+     <rect height="0.79" transform="translate(16.677 15.681) rotate(90)" width="3.157" x="-1.578" y="-0.395"/>
+     <rect height="0.79" transform="translate(15.888 14.892) rotate(90)" width="3.157" x="-1.578" y="-0.395"/>
+     <rect height="0.79" transform="translate(15.098 14.497) rotate(90)" width="2.367" x="-1.183" y="-0.395"/>
+     <rect height="0.79" transform="translate(14.309 14.102) rotate(90)" width="1.578" x="-0.789" y="-0.395"/>
+     <rect height="0.79" transform="translate(24.572 15.681) rotate(90)" width="3.157" x="-1.578" y="-0.395"/>
+     <rect height="0.79" transform="translate(25.362 14.892) rotate(90)" width="3.157" x="-1.578" y="-0.395"/>
+     <rect height="0.79" transform="translate(26.151 14.497) rotate(90)" width="2.367" x="-1.183" y="-0.395"/>
+     <rect height="0.79" transform="translate(26.941 14.102) rotate(90)" width="1.578" x="-0.789" y="-0.395"/>
+     <rect height="0.79" transform="translate(15.098 20.419) rotate(90)" width="3.157" x="-1.578" y="-0.395"/>
+     <rect height="0.79" transform="translate(26.151 20.419) rotate(90)" width="3.157" x="-1.578" y="-0.395"/>
+     <rect height="0.79" transform="translate(13.521 25.157) rotate(90)" width="1.578" x="-0.789" y="-0.395"/>
+     <rect height="0.789" transform="translate(14.309 24.761) rotate(90)" width="2.367" x="-1.183" y="-0.394"/>
+     <rect height="0.789" transform="translate(15.098 24.366) rotate(90)" width="3.157" x="-1.578" y="-0.394"/>
+     <rect height="0.789" transform="translate(15.888 24.761) rotate(90)" width="0.789" x="-0.394" y="-0.394"/>
+     <rect height="0.79" transform="translate(19.046 28.709) rotate(90)" width="2.367" x="-1.183" y="-0.395"/>
+     <rect height="0.79" transform="translate(22.204 28.709) rotate(90)" width="2.367" x="-1.183" y="-0.395"/>
+     <rect height="0.79" transform="translate(22.204 25.55) rotate(90)" width="0.789" x="-0.394" y="-0.395"/>
+     <rect height="0.79" transform="translate(19.046 25.55) rotate(90)" width="0.789" x="-0.394" y="-0.395"/>
+     <rect height="0.79" transform="translate(20.625 31.077) rotate(90)" width="0.789" x="-0.394" y="-0.395"/>
+     <rect height="0.79" transform="translate(25.362 24.761) rotate(90)" width="0.789" x="-0.394" y="-0.395"/>
+     <rect height="0.79" transform="translate(26.154 24.366) rotate(90)" width="3.157" x="-1.578" y="-0.395"/>
+     <rect height="0.789" transform="translate(26.941 24.761) rotate(90)" width="2.367" x="-1.183" y="-0.394"/>
+     <rect height="0.789" transform="translate(27.73 25.156) rotate(90)" width="1.578" x="-0.789" y="-0.394"/>
+    </g>
+   </g>
+  </g>
+ </g>
+</svg>

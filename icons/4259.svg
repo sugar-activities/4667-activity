@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:i="http://ns.adobe.com/AdobeIllustrator/10.0/"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="-34 -12 68 33"
+   width="44.999992"
+   height="35.522179"
+   id="svg2236"
+   sodipodi:version="0.32"
+   inkscape:version="0.45.1"
+   sodipodi:docname="xo olympics.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   sodipodi:docbase="C:\Documents and Settings\Administrator\Desktop"
+   version="1.0">
+  <metadata
+     id="metadata2274">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     inkscape:window-height="721"
+     inkscape:window-width="1024"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     guidetolerance="10.0"
+     gridtolerance="10.0"
+     objecttolerance="10.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base"
+     inkscape:zoom="0.65098039"
+     inkscape:cx="510"
+     inkscape:cy="247.5"
+     inkscape:window-x="-4"
+     inkscape:window-y="-4"
+     inkscape:current-layer="svg2236" />
+  <defs
+     id="defs2238">
+    <clipPath
+       id="interlace">
+      <path
+         d="M -11,-11 L 11,-11 L 11,11 L -11,11 L -11,-11 z M 11,-1.5 C 5.2010101,-1.5 0.5,3.2010101 0.5,9 C 0.5,14.79899 5.2010101,19.5 11,19.5 L 11,16.5 C 6.8578644,16.5 3.5,13.142136 3.5,9 C 3.5,4.8578644 6.8578644,1.5 11,1.5 M -11,1.5 C -6.8578644,1.5 -3.5,4.8578644 -3.5,9 C -3.5,13.142136 -6.8578644,16.5 -11,16.5 L -11,19.5 C -5.2010101,19.5 -0.50000003,14.79899 -0.50000003,9 C -0.50000003,3.2010101 -5.2010101,-1.5 -11,-1.5 L -11,1.5 z "
+         clip-rule="evenodd"
+         id="path2241" />
+    </clipPath>
+    <clipPath
+       id="interlace_Firefox">
+<!-- Firefox workaround -->      <path
+         d="M 0,0 L -12,12 L 0,12 L 0,0 z "
+         id="path2244" />
+    </clipPath>
+    <g
+       id="ring">
+      <circle
+         r="9"
+         clip-path="url(#interlace)"
+         id="circle2247"
+         cx="0"
+         cy="0"
+         sodipodi:cx="0"
+         sodipodi:cy="0"
+         sodipodi:rx="9"
+         sodipodi:ry="9" />
+      <circle
+         r="9"
+         clip-path="url(#interlace_Firefox)"
+         id="circle2249"
+         cx="0"
+         cy="0"
+         sodipodi:cx="0"
+         sodipodi:cy="0"
+         sodipodi:rx="9"
+         sodipodi:ry="9" />
+<!-- Firefox workaround -->      <path
+         d="M 0,-9 C 4.9705627,-9 9,-4.9705627 9,0"
+         transform="matrix(0.7071068,0.7071068,-0.7071068,0.7071068,0,0)"
+         id="path2251" />
+    </g>
+  </defs>
+  <g
+     id="g4721"
+     transform="matrix(4.09654,0,0,4.09654,-14.864573,-8.9509613)">
+    <rect
+       ry="0.55242717"
+       y="-2.5136549"
+       x="3.0413654"
+       height="4.7108436"
+       width="9.1144581"
+       id="rect2781"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.23333333;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <g
+       style="fill:none;stroke-width:2"
+       transform="matrix(0.1041678,0,0,0.1041678,7.586381,-0.4912362)"
+       id="g2253">
+      <g
+         style="stroke:#0085c7"
+         id="g2255"
+         transform="translate(-22,0)">
+        <use
+           height="33"
+           width="68"
+           y="0"
+           x="0"
+           id="use2257"
+           xlink:href="#ring" />
+        <path
+           id="path2259"
+           d="M 0,-9 C -4.9705627,-9 -9,-4.9705627 -9,-1.1021457e-015 C -9,4.9705627 -4.9705627,9 -1.6532186e-015,9" />
+      </g>
+      <use
+         height="33"
+         width="68"
+         y="0"
+         x="0"
+         style="stroke:#000000"
+         id="use2261"
+         xlink:href="#ring" />
+      <g
+         style="stroke:#df0024"
+         id="g2263"
+         transform="translate(22,0)">
+        <use
+           height="33"
+           width="68"
+           y="0"
+           x="0"
+           id="use2265"
+           xlink:href="#ring" />
+        <path
+           id="path2267"
+           d="M 0,-9 C 4.9705627,-9 9,-4.9705627 9,0 C 9,4.9705627 4.9705627,9 5.5107286e-016,9" />
+      </g>
+      <use
+         height="33"
+         width="68"
+         y="0"
+         x="0"
+         style="stroke:#f4c300"
+         id="use2269"
+         transform="matrix(-1,0,0,-1,-11,9)"
+         xlink:href="#ring" />
+      <use
+         height="33"
+         width="68"
+         y="0"
+         x="0"
+         style="stroke:#009f3d"
+         id="use2271"
+         transform="matrix(-1,0,0,-1,11,9)"
+         xlink:href="#ring" />
+    </g>
+    <switch
+       id="switch2761"
+       transform="matrix(6.6666667e-2,0,0,6.6666667e-2,-3.9316023,-1.1622897)">
+		<foreignObject
+   id="foreignObject2763"
+   height="1"
+   width="1"
+   y="0"
+   x="0"
+   requiredExtensions="http://ns.adobe.com/AdobeIllustrator/10.0/">
+			<i:pgfRef
+   xlink:href="#adobe_illustrator_pgf">
+			</i:pgfRef>
+
+		</foreignObject>
+
+		<g
+   id="g2765"
+   i:extraneous="self">
+			<g
+   i:rgbTrio="#4F008000FFFF"
+   i:dimmedPercent="50"
+   i:layer="yes"
+   id="Layer_1">
+				<path
+   style="fill:#5e008c"
+   id="path2768"
+   d="M 87.016,28.017 C 87.016,43.491 74.436,56.058 58.975,56.058 C 43.491,56.058 30.947,43.491 30.947,28.017 C 30.947,12.545 43.491,0 58.975,0 C 74.436,0.001 87.016,12.545 87.016,28.017"
+   enable-background="new    "
+   i:knockout="Off"
+   i:isolated="yes" />
+
+				<path
+   style="fill:#5e008c"
+   id="path2770"
+   d="M 112.534,142.773 L 80.638,110.877 L 112.534,78.957 C 119.235,72.292 119.829,61.961 113.854,55.986 C 107.891,50.035 97.548,50.606 90.86,57.296 L 58.964,89.216 L 27.079,57.296 C 20.378,50.607 10.059,50.036 4.097,55.986 C -1.878,61.961 -1.282,72.292 5.394,78.957 L 37.303,110.877 L 5.393,142.773 C -1.284,149.462 -1.879,159.818 4.096,165.745 C 10.059,171.72 20.402,171.125 27.078,164.46 L 58.963,132.539 L 90.86,164.46 C 97.548,171.125 107.89,171.72 113.853,165.745 C 119.829,159.818 119.235,149.464 112.534,142.773"
+   enable-background="new    "
+   i:knockout="Off"
+   i:isolated="yes" />
+
+			</g>
+
+		</g>
+
+	</switch>
+  </g>
+</svg>

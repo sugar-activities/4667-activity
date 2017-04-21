@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<!DOCTYPE svg  PUBLIC '-//W3C//DTD SVG 1.1//EN'  'http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd' [
+	<!ENTITY stroke_color "#000">
+	<!ENTITY fill_color "#eee">
+]>
+<svg height="45px" viewBox="0 0 45 45" width="45px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.5" stroke="&stroke_color;" fill="&fill_color;">
+  <g
+     id="g2390"
+     transform="translate(2.5,2.4999985)">
+    <rect
+       style="fill:&fill_color;;stroke:&stroke_color;;stroke-width:1.45688474"
+       id="rect4"
+       transform="matrix(-0.7071068,-0.7071068,0.7071068,-0.7071068,0,0)"
+       y="-13.627049"
+       x="-27.769184"
+       height="13.111962"
+       width="13.111962" />
+    <rect
+       style="fill:&fill_color;;stroke:&stroke_color;;stroke-width:1.45688474"
+       id="rect2384"
+       transform="matrix(-0.7071068,-0.7071068,0.7071068,-0.7071068,0,0)"
+       y="0.51508725"
+       x="-27.769186"
+       height="13.111962"
+       width="13.111962" />
+    <rect
+       style="fill:&fill_color;;stroke:&stroke_color;;stroke-width:1.45688474"
+       id="rect2386"
+       transform="matrix(-0.7071068,-0.7071068,0.7071068,-0.7071068,0,0)"
+       y="0.51508671"
+       x="-41.91132"
+       height="13.111962"
+       width="13.111962" />
+    <rect
+       style="fill:&fill_color;;stroke:&stroke_color;;stroke-width:1.45688474"
+       id="rect2388"
+       transform="matrix(-0.7071068,-0.7071068,0.7071068,-0.7071068,0,0)"
+       y="-13.627048"
+       x="-41.911324"
+       height="13.111962"
+       width="13.111962" />
+  </g>
+</svg>

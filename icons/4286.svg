@@ -1,0 +1,14 @@
+<?xml version="1.0" ?><!-- Created with Inkscape (http://www.inkscape.org/) --><!DOCTYPE svg  PUBLIC '-//W3C//DTD SVG 1.1//EN'  'http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd' [
+	<!ENTITY stroke_color "#010101">
+	<!ENTITY fill_color "#ffffff">
+]><svg height="55px" id="svg2" version="1.0" viewBox="0 0 55 55" width="55px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg"><defs id="defs19"/>
+<g id="g4" transform="matrix(0.9856065,0,0,0.9755607,0.5832702,0.4248364)">
+	<polygon id="polygon6" points="46.035,14.805 26.142,2.074 6.035,14.805 8.437,14.805 8.437,49.758 43.437,49.758 43.437,14.805 46.035,14.805 " style="fill:&fill_color;;stroke:&stroke_color;;stroke-width:3.5"/>
+	<g id="g8">
+		<circle cx="33.799999" cy="22.311001" id="circle10" r="5.5" style="fill:&stroke_color;;stroke:&stroke_color;;stroke-width:3.5"/>
+		<circle cx="18.111" cy="38.895" id="circle12" r="5.5" style="fill:&stroke_color;;stroke:&stroke_color;;stroke-width:3.5"/>
+		<circle cx="33.799999" cy="38.895" id="circle14" r="5.5" style="fill:none;stroke:&stroke_color;;stroke-width:3.5"/>
+		<path d="M 23.644,24.93 C 22.704,26.613 20.906,27.749 18.838,27.749 C 15.801,27.749 13.338,25.287 13.338,22.249 C 13.338,19.211 15.801,16.749 18.838,16.749 C 20.755,16.749 22.442,17.729 23.429,19.216" id="path16" style="fill:none;stroke:&stroke_color;;stroke-width:3.5"/>
+	</g>
+</g>
+</svg>

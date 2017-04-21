@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 12.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 51448)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
+	<!ENTITY ns_svg "http://www.w3.org/2000/svg">
+	<!ENTITY ns_xlink "http://www.w3.org/1999/xlink">
+    <!ENTITY stroke_color "#010101">
+    <!ENTITY fill_color "#FFFFFF">
+]>
+<svg  version="1.1" id="Layer_2" xmlns="&ns_svg;" xmlns:xlink="&ns_xlink;" width="55" height="55"
+	 viewBox="0 0 55 55" overflow="visible" enable-background="new 0 0 55 55" xml:space="preserve">
+<g transform="translate(4,4)">
+<g transform="scale(0.84)">
+<rect x="1.5" y="1.5" fill="&fill_color;" stroke="&stroke_color;" stroke-width="3" width="52" height="52"/>
+<rect x="5.986" y="32.169" fill="&fill_color;" stroke="&stroke_color;" stroke-width="3" width="11.521" height="12.48"/>
+<rect x="5.986" y="10.413" fill="&fill_color;" stroke="&stroke_color;" stroke-width="3" width="11.521" height="12.48"/>
+<line fill="&fill_color;" stroke="&stroke_color;" stroke-width="2" x1="3.803" y1="28.69" x2="19.961" y2="46.255"/>
+<line fill="&fill_color;" stroke="&stroke_color;" stroke-width="2" x1="4.536" y1="49.659" x2="20.743" y2="27.866"/>
+<polygon fill="&fill_color;" stroke="&stroke_color;" stroke-width="3" points="21.447,37.87 25.981,29.785 26.664,29.069 42.648,12.338 
+	46.367,8.445 50.823,12.411 47.075,16.786 30.763,34.942 "/>
+<line fill="&fill_color;" stroke="&stroke_color;" stroke-width="2" x1="30.453" y1="34.028" x2="26.921" y2="28.98"/>
+</g>
+</g>
+</svg>
+
